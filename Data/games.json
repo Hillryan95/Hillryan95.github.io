@@ -3571,28 +3571,6 @@
         "quizmaster": true,
         "props": false,
         "rules": "The quizmaster finds 5 traditional dishes from the BBC Food website. They will then read out a maximum of 10 ingredients required to make said recipe. All the players have to do is buzz in (names are buzzers) and guess the recipe the quizmaster is cooking up. For every ingredient the quizmaster names, another point is added on. The aim is to accrue as few points as possible after 5 rounds. Players are frozen out and receive all 10 points if they guess a recipe incorrectly."
-    },
-    {
-        "mugID": 270,
-        "platform": "BBC",
-        "episode": 249,
-        "creator": "Ryan",
-        "name": "The test game",
-        "players": "2+",
-        "quizmaster": true,
-        "props": false,
-        "rules": "Testing 1 2 3"
-    },
-    {
-        "mugID": 271,
-        "platform": "BBC",
-        "episode": 249,
-        "creator": "Ryan",
-        "name": "The test game 2",
-        "players": "2+",
-        "quizmaster": true,
-        "props": false,
-        "rules": "Testing 1 2 3"
     }
 ]
 
