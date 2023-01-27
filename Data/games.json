@@ -3582,6 +3582,17 @@
         "quizmaster": true,
         "props": false,
         "rules": "Testing 1 2 3"
+    },
+    {
+        "mugID": 271,
+        "platform": "BBC",
+        "episode": 249,
+        "creator": "Ryan",
+        "name": "The second test!",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "Testing Testing Testing Testing Testing Testing Testing Testing Testing Testing"
     }
 ]
 
