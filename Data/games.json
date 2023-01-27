@@ -1,0 +1,3576 @@
+[
+    {
+        "mugID": 1,
+        "platform": "X",
+        "episode": 176,
+        "creator": "Catherine",
+        "name": "Nut, Wood, Seed",
+        "players": "2",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Player 1 holds out their hand to receive the imaginary nut, wood, or seed. Player 2 places in their hand a nut, wood, or seed simulated by their hand or fingers. For example, placing the hand flat with very little pressure would be a light wood, balsa. Two or three knuckles twisted into a ball would be a walnut, etc. You take it in turns, if for any reason you come to a tiebreak situation, you have to quickfire shout names of trees at each other until you run out."
+    },
+    {
+        "mugID": 2,
+        "platform": "X",
+        "episode": 176,
+        "creator": "Brendan",
+        "name": "Population Speculation",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "List of countries by population",
+                "link": "https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)"
+            }
+        ],
+        "rules": "Guess how many people live in a country. A quizmaster names a country. Everyone then texts their guess of the population of that country before the answer is revealed."
+    },
+    {
+        "mugID": 3,
+        "platform": "X",
+        "episode": 176,
+        "creator": "Anonymous",
+        "name": "Birds Or Bridges",
+        "players": "2",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Can be motorway based, devised and best played on routes to Cardiff from Taunton. Select two things, nouns, and debate with your car companion which would be better to have never existed, for example, birds, or bridges. What would be used to cross ravines if bridges were out of the question? What would a world without eggs be like?"
+    },
+    {
+        "mugID": 4,
+        "platform": "X",
+        "episode": 176,
+        "creator": "James",
+        "name": "Potato Potato",
+        "players": "2",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Two players take it in turns to say the word potato, until one of you feels it is the right time to say Birdseye. Whoever says Birdseye first is the winner, unless you say Birdseye at the wrong time, in which case you are the loser. There is no rule on when you can say Birdseye, you can say it on the first go, or wait until the 10th round. It is 100% vibe based. You know when it's right, and you know when it's wrong."
+    },
+    {
+        "mugID": 5,
+        "platform": "X",
+        "episode": 176,
+        "creator": "Richard",
+        "name": "The Zero Question Game",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "A variant of twenty questions, each player has only one guess at who the famous person being thought of was. Once everyone has had their go, the question master reveals the answer and you move on to the next person."
+    },
+    {
+        "mugID": 6,
+        "platform": "X",
+        "episode": 176,
+        "creator": "Julia",
+        "name": "Am I Scratching",
+        "players": "2",
+        "quizmaster": false,
+        "props": true,
+        "rules": "Best played in bed. One person asks 'am I scratching?' and then either has to scratch themselves or rub the mattress. The other person guesses Yes or No."
+    },
+    {
+        "mugID": 7,
+        "platform": "X",
+        "episode": 176,
+        "creator": "Anonymous",
+        "name": "Flicking The Bean",
+        "players": "2+",
+        "quizmaster": false,
+        "props": true,
+        "rules": "Hang a smallish frying pan from the extractor fan over your hob. Standing on the opposite side of the kitchen with a tin of beans and a spoon each, the aim is flick as many beans as possible into the frying pan. The loser undertakes the clean-up job."
+    },
+    {
+        "mugID": 8,
+        "platform": "X",
+        "episode": 176,
+        "creator": "Anonymous",
+        "name": "Under Pressure",
+        "players": "2+",
+        "quizmaster": false,
+        "props": true,
+        "rules": "One person lies down on a desk. Another desk is laid on top. The goal is to see how many people can stand on top of the desk before you feel ill."
+    },
+    {
+        "mugID": 9,
+        "platform": "X",
+        "episode": 176,
+        "creator": "Nina",
+        "name": "Dobbins Or Bobbins",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Each player must invent a ludicrous yet plausible name of a horse running in each of that weekend's racing pages. The caller selects an equally ridiculous name appearing in each race, then reads out the sheet, as any horse commentator might, and each player must vote on which is the real horse."
+    },
+    {
+        "mugID": 10,
+        "platform": "X",
+        "episode": 177,
+        "creator": "Louis",
+        "name": "The Machine Noise Game",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "The noisemaker simulates the noise of a common everyday machine. The other players then take turns to guess the machine. One point to the player that guesses correctly, and 1 point to the noisemaker who stymies the others into giving in."
+    },
+    {
+        "mugID": 11,
+        "platform": "X",
+        "episode": 178,
+        "creator": "Paul",
+        "name": "How Old Is The Coin?",
+        "players": "2+",
+        "quizmaster": false,
+        "props": true,
+        "rules": "A coin is pulled out (date down) and each person in the group is asked the key question, 'How old is the coin?'. The winner is the person with the closest guess."
+    },
+    {
+        "mugID": 12,
+        "platform": "X",
+        "episode": 178,
+        "creator": "Ally",
+        "name": "Unsung Onion",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Think of a recipe where the onion is an important part of the dish but doesn't get the credit it deserves."
+    },
+    {
+        "mugID": 13,
+        "platform": "X",
+        "episode": 179,
+        "creator": "Andy",
+        "name": "Irrelevant Mallet's Mallet",
+        "players": "2",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Two players take it in turns naming words that have nothing to do with the preceding word."
+    },
+    {
+        "mugID": 14,
+        "platform": "X",
+        "episode": 180,
+        "creator": "Owen",
+        "name": "Teacher: Subject",
+        "players": "2",
+        "quizmaster": false,
+        "props": false,
+        "rules": "One person has to guess what subject one of your teachers from school taught from a few clues and a name. Round 1: simply give the teacher's name, player 2 wins 5 points if the subject is guessed correctly. Round 2: give a very general clue about the person, but not the subject, a correct guess wins 3 points. Round 3: Another general clue about the person is given, a correct guess wins 1 point."
+    },
+    {
+        "mugID": 15,
+        "platform": "X",
+        "episode": 181,
+        "creator": "Paul",
+        "name": "The Dictionary Game",
+        "players": "2",
+        "quizmaster": false,
+        "props": true,
+        "rules": "Player 1 picks up a dictionary, flicks through the pages, and randomly puts their finger down on one of the pages as they flick past. Whatever word their finger lands on is their word. Player 2 then does the same. The player with the best word wins."
+    },
+    {
+        "mugID": 16,
+        "platform": "X",
+        "episode": 182,
+        "creator": "Joe",
+        "name": "The Slang Game",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "One person chooses a word that has lots of slang terms and players take turns to say slang names for that thing. The loser is the person that can't carry on. Players can interject and challenge a person's slang term if they deem it incorrect, or if there is repetition."
+    },
+    {
+        "mugID": 17,
+        "platform": "X",
+        "episode": 183,
+        "creator": "Dan",
+        "name": "Word Up",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Choose a letter at random. The first player begins with the shortest word possible they can think of beginning with that letter. You then take it in turns to increase the length of the word each go. Plurals are not allowed, each word is spelled to avoid arguments."
+    },
+    {
+        "mugID": 18,
+        "platform": "X",
+        "episode": 184,
+        "creator": "Kieron",
+        "name": "Last Word",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "The objective of the game is to repeat the sentence that the previous person said, but take off the last word. This keeps going around in turn until all the words in the sentence have been dropped. The person who's turn would have been next is then out. This is repeated with additional rounds if there are more than two players until there is only one player remaining."
+    },
+    {
+        "mugID": 19,
+        "platform": "X",
+        "episode": 185,
+        "creator": "Nick",
+        "name": "Gestation",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Gestation Durations",
+                "link": "https://en.wikipedia.org/wiki/List_of_mammalian_gestation_durations"
+            }
+        ],
+        "rules": "A quizmaster names a mammal, and the players have to guess the gestation period of the named creature. Points are awarded to the player that comes closest to the gestation period listed by Google/Wikipedia."
+    },
+    {
+        "mugID": 20,
+        "platform": "X",
+        "episode": 186,
+        "creator": "Anna & Sam",
+        "name": "Twenty Questions, Warmer Or Colder",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "A variant of The Zero Question Game. A player thinks of a famous person, and the other players try to work out who it is within 20 guesses. There are no questions, just guesses, but after your second guess you are told if the latest guess is warmer or colder than the previous."
+    },
+    {
+        "mugID": 21,
+        "platform": "X",
+        "episode": 187,
+        "creator": "Matt",
+        "name": "Quizipedia",
+        "players": "2",
+        "quizmaster": false,
+        "props": true,
+        "links": [
+            {
+                "name": "Wikipedia",
+                "link": "https://en.wikipedia.org/wiki/Main_Page"
+            }
+        ],
+        "rules": "Each player needs to have their phone to hand with the Wikipedia app or website ready to go. Each player picks their specialist subject. This is then searched for by the other player on Wikipedia. From this, players take it in turns to ask questions. Question 1 must come from the first paragraph, question 2 from the 'Quick Facts' dropdown menu, and the remaining three questions can come from anywhere else on the page."
+    },
+    {
+        "mugID": 22,
+        "platform": "X",
+        "episode": 188,
+        "creator": "Nick",
+        "name": "Caps",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster picks an international football (other sports can be substituted) player. The first contestant must guess how many international caps they have, winning 2 points if correct. If they answer incorrectly, the next contestant can guess if the number of caps is higher or lower than the previous answer, winning 1 point if correct. If incorrect, the first contestant gets 1 point."
+    },
+    {
+        "mugID": 23,
+        "platform": "X",
+        "episode": 189,
+        "creator": "Anonymous",
+        "name": "Mince Or Mints",
+        "players": "2",
+        "quizmaster": false,
+        "props": false,
+        "rules": "One player says out loud either 'mince', or 'mints'. Player 2 guesses which one they are saying by shouting out either 'beef' or 'polos'."
+    },
+    {
+        "mugID": 24,
+        "platform": "X",
+        "episode": 190,
+        "creator": "Ffion & Jamie",
+        "name": "Potter Or Notter",
+        "players": "2",
+        "quizmaster": false,
+        "props": false,
+        "links": [
+            {
+                "name": "Harry Potter Characters",
+                "link": "https://en.wikipedia.org/wiki/List_of_Harry_Potter_characters"
+            }
+        ],
+        "rules": "Must be played under the condition that one of the pair knows lots about Harry Potter, and the other relatively little. The Harry Potter devotee offers up either the name of a real character, preferably from the back benches of the wizarding world, or a made up name which sounds like the sort of quaffle that JK Rowling would spout. The Harry Potter amateur then has to guess if the character is real or fake using their limited knowledge as best they can. 1 point to the Harry Potter amateur for every correct guess, a point to the Harry Potter devotee for every incorrect guess."
+    },
+    {
+        "mugID": 25,
+        "platform": "X",
+        "episode": 191,
+        "creator": "Pete",
+        "name": "Mod Or Rocker",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "As we all know, every person, place, or thing on God's green Earth is either Mod or Rocker. Elis James, Blur, Umbrellas, and Planes are all obvious Mods. John Robins, Queen, Canned Food, and Steam Engines are Rockers to the core. But is it always so obvious? A quizmaster provides a list of items, and players must state whether they are Mod or Rocker. Each correct answer wins a point."
+    },
+    {
+        "mugID": 26,
+        "platform": "X",
+        "episode": 192,
+        "creator": "Hannah",
+        "name": "You're A Yoghurt",
+        "players": "2",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Players are to quickfire insults at each other. On receiving an insult you simply return with your own offensive adjective that begins with the last letter of the previous insult."
+    },
+    {
+        "mugID": 27,
+        "platform": "X",
+        "episode": 193,
+        "creator": "Chris & Danielle",
+        "name": "West Country Sing-Along",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Players have to sing a song by a popular band, but in a different style. For example, in a West Country accent."
+    },
+    {
+        "mugID": 28,
+        "platform": "X",
+        "episode": 193,
+        "creator": "John Robins",
+        "name": "Ignorant Karaoke / Ignaraoke",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Inspired by West Country Sing-along, players must sing a very popular song that they don't know using only the lyrics as a guide."
+    },
+    {
+        "mugID": 29,
+        "platform": "X",
+        "episode": 194,
+        "creator": "Joe",
+        "name": "The Thing I Like",
+        "players": "2",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Players are given a category, e.g. shop/celebrity/band, and take it in turns to name a thing they like about it. There must be no delay between player's responses. A player wins a point when their opponent can no longer name a thing they like, or their observation isn't valid."
+    },
+    {
+        "mugID": 30,
+        "platform": "X",
+        "episode": 195,
+        "creator": "Zoe",
+        "name": "Ants, Pants, Man In A Trance",
+        "players": "2",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Pick three things that rhyme, in the rhythm of 'ants, pants, man in a trance', and describe the phrase without saying any of the words. Your opponent has to guess what it is."
+    },
+    {
+        "mugID": 31,
+        "platform": "X",
+        "episode": 196,
+        "creator": "Matt",
+        "name": "2P Or Not 2P",
+        "players": "2",
+        "quizmaster": false,
+        "props": true,
+        "rules": "The game involves two players, a guesser and a dropper. The dropper has two coins, a 2p and any other coin. The guesser turns away from the dropper and has to rely on the power of their ears to help them. The dropper then drops either of the two coins onto the desk and the guesser has to decide which one was a 2p, and which one was not a 2p. It's a best of three game, the players take it in turns until somebody wins."
+    },
+    {
+        "mugID": 32,
+        "platform": "X",
+        "episode": 197,
+        "creator": "Ails",
+        "name": "Rock, Paper, Whatever",
+        "players": "2",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Using the classic game 'Rock, Paper, Scissors' you substitute scissors for whatever you want. Then you debate which 'whatever' would win."
+    },
+    {
+        "mugID": 33,
+        "platform": "X",
+        "episode": 198,
+        "creator": "The John Robins Stag Crew",
+        "name": "The Studio Album Game",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "links": [
+            {
+                "name": "Discogs",
+                "link": "https://www.discogs.coms"
+            }
+        ],
+        "rules": "Think of a studio album which you can name the tracks in order. The person who gets furthest into the album wins."
+    },
+    {
+        "mugID": 34,
+        "platform": "X",
+        "episode": 199,
+        "creator": "Nick",
+        "name": "Cups",
+        "players": "2",
+        "quizmaster": true,
+        "props": true,
+        "rules": "You need a branded glass, for example a Doom Bar glass. The cupmaster will ask if anyone is interested in a game of cups. If someone accepts the challenge they will be given a category and an amount of time ranging from 50 seconds to 1 minute. During this allotted time the player must turn the glass while going through the letters of the brand name, naming things within the given category that begin with that letter. The quickest to do it wins. Should you need to, you are allowed to exchange one of the letters on the glass for a letter of your choice."
+    },
+    {
+        "mugID": 35,
+        "platform": "X",
+        "episode": 0,
+        "creator": "Gareth",
+        "name": "Through The Imaginary Keyhole",
+        "players": "2",
+        "quizmaster": false,
+        "props": false,
+        "rules": "You just need to  imagine a famous person's house and talk the other player through it, dropping clues all the while. The only rules in this game is that somewhere in the house there must be Wotsits discarded on the floor, and a fishing rod in one room. (From 'Bonus: LOLs in the Lull')"
+    },
+    {
+        "mugID": 36,
+        "platform": "X",
+        "episode": 201,
+        "creator": "Josh Widdicombe",
+        "name": "Wiki Races",
+        "players": "2",
+        "quizmaster": false,
+        "props": false,
+        "links": [
+            {
+                "name": "Wikipedia",
+                "link": "https://en.wikipedia.org/wiki/Main_Page"
+            }
+        ],
+        "rules": "Name two Wikipedia pages. You have to get from one to the other by clicking on blue links in as few steps as possible, you can't undo your moves."
+    },
+    {
+        "mugID": 37,
+        "platform": "X",
+        "episode": 202,
+        "creator": "Chris",
+        "name": "What's My Age",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "One player names a celebrity, and the other players have to guess the age of that person. Best of three, although you may need a tie-breaker if you draw."
+    },
+    {
+        "mugID": 38,
+        "platform": "X",
+        "episode": 203,
+        "creator": "Oscar",
+        "name": "Sing An Anthem",
+        "players": "2",
+        "quizmaster": false,
+        "props": false,
+        "rules": "One person names a country. The other person attempts to recreate the National Anthem of that country to the best of their ability. The most anthems sung correctly wins."
+    },
+    {
+        "mugID": 39,
+        "platform": "X",
+        "episode": 203,
+        "creator": "John and Elis",
+        "name": "Anthems",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A variant on 'Sing an Anthem'. The quizmaster plays three national anthems. Each player has to guess which country they are from. The person who gets it right, or comes geographically closest, wins the points. 10 points for bang on, 5 for closest. "
+    },
+    {
+        "mugID": 40,
+        "platform": "X",
+        "episode": 204,
+        "creator": "Matt",
+        "name": "Postcode Wars",
+        "players": "2",
+        "quizmaster": false,
+        "props": false,
+        "links": [
+            {
+                "name": "Postcode Areas",
+                "link": "https://en.wikipedia.org/wiki/List_of_postcode_areas_in_the_United_Kingdom"
+            }
+        ],
+        "rules": "Give the postcode area for a given location. For example, player one could say 'give the postcode location for Gloucester' and player two should give the answer 'GL'."
+    },
+    {
+        "mugID": 41,
+        "platform": "X",
+        "episode": 205,
+        "creator": "Matt",
+        "name": "British Animal Duos",
+        "players": "2",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Players take it in turns to quickfire name two animals back-to-back, for example chicken-dog, rabbit-horse, badger-fox etc. The loser is the person who hasn't fired two animals back at speed and got stuck, or if they repeat an animal already mentioned."
+    },
+    {
+        "mugID": 42,
+        "platform": "X",
+        "episode": 206,
+        "creator": "Matt",
+        "name": "Quiz Of The Day",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "To initiate 'Quiz of the Day', one must shout 'Quiz of the Day' at any point in the day, making sure everyone knows it has started. The person then announcing Quiz of the Day becomes the host. The quiz begins with the host asking contestants three questions on the events of the day. Each correct answer nets the contestant one point for a max of three (half-points are allowed)."
+    },
+    {
+        "mugID": 43,
+        "platform": "X",
+        "episode": 207,
+        "creator": "Andy",
+        "name": "Rapper Or Wrestler",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Hip Hop Artists",
+                "link": "https://en.wikipedia.org/wiki/List_of_hip_hop_musicians"
+            },
+            {
+                "name": "Professional Wrestlers",
+                "link": "https://en.wikipedia.org/wiki/Category:Lists_of_professional_wrestling_personnel"
+            }
+        ],
+        "rules": "A quizmaster reads out a list of bona fide rapper and wrestler names, and contestants must state whether they are a rapper or a wrestler."
+    },
+    {
+        "mugID": 44,
+        "platform": "X",
+        "episode": 208,
+        "creator": "David",
+        "name": "The Birthday Game",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "links": [
+            {
+                "name": "Google",
+                "link": "https://www.google.com"
+            }
+        ],
+        "rules": "Players google their birthday, and pick a famous person that share it with them. The best one wins, and it's best of three. An independent third party may be required to adjudicate."
+    },
+    {
+        "mugID": 45,
+        "platform": "X",
+        "episode": 209,
+        "creator": "Matt",
+        "name": "Second The Best",
+        "players": "3+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Each player writes down a number, the winner is the player with the second highest number. They are then awarded the points equivalent of the highest number played."
+    },
+    {
+        "mugID": 46,
+        "platform": "X",
+        "episode": 210,
+        "creator": "Dylan",
+        "name": "Sport Star Nicknames",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Competitors take it in turns to answer who they think a sports person is after being given their sport and nickname."
+    },
+    {
+        "mugID": 47,
+        "platform": "X",
+        "episode": 211,
+        "creator": "Gareth",
+        "name": "Coin Pile",
+        "players": "2+",
+        "quizmaster": false,
+        "props": true,
+        "rules": "Players take it in turns. Player one places a number of coins in a pile, say 5 to start, on a receipt on the edge of a table or bar. The player then tries to whip the receipt from under the coins without knocking the coins over. On every successful attempt another coin is added to the pile. The winner is the person who can pull out the paper without knocking over the most coins."
+    },
+    {
+        "mugID": 48,
+        "platform": "X",
+        "episode": 212,
+        "creator": "Cat",
+        "name": "Identify The Outro",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Players need to identify a song by the final few chords."
+    },
+    {
+        "mugID": 49,
+        "platform": "X",
+        "episode": 213,
+        "creator": "Sam",
+        "name": "Destination Or Fabrication",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Each player lists 10 places in the UK, a mixture of real and made up. Their opponents must state whether they are real or not."
+    },
+    {
+        "mugID": 50,
+        "platform": "X",
+        "episode": 214,
+        "creator": "Joe",
+        "name": "Masterchef Or Mastershouldn't",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Each player creates a list of MasterChef dishes, a mixture of real and made up. Their opponents must state whether they are real or not."
+    },
+    {
+        "mugID": 51,
+        "platform": "X",
+        "episode": 215,
+        "creator": "Mike",
+        "name": "Que Tiempo Hace En...",
+        "players": "2",
+        "quizmaster": false,
+        "props": false,
+        "links": [
+            {
+                "name": "World Weather",
+                "link": "https://www.worldweatheronline.com"
+            }
+        ],
+        "rules": "You name a major city anywhere in the world and then ask the question 'Que Tiempo Hace En...' ('What is the weather like in...'). The other player must guess what the weather is doing right now in that place. You can use the BBC Weather site to check what the weather is doing within the last hour."
+    },
+    {
+        "mugID": 52,
+        "platform": "X",
+        "episode": 216,
+        "creator": "Jack",
+        "name": "Scotland Or Notland",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "links": [
+            {
+                "name": "Scottish Towns and Cities",
+                "link": "https://en.wikipedia.org/wiki/List_of_towns_and_cities_in_Scotland_by_population"
+            }
+        ],
+        "rules": "Each player creates a list of Scottish Towns, a mixture of real and made up. Their opponents must state whether they are real or not."
+    },
+    {
+        "mugID": 53,
+        "platform": "X",
+        "episode": 217,
+        "creator": "Jake",
+        "name": "Station Master",
+        "players": "2",
+        "quizmaster": false,
+        "props": false,
+        "links": [
+            {
+                "name": "National Rail",
+                "link": "https://www.nationalrail.co.uk"
+            }
+        ],
+        "rules": "On both the National Rail Enquiries website and app every station has it's own unique three-letter code. Player one names three stations, and player two must guess the respective three-letter codes before play is reversed. Whichever player guesses the most three-letter codes can legitimately be named 'Station Master'."
+    },
+    {
+        "mugID": 54,
+        "platform": "X",
+        "episode": 218,
+        "creator": "Robert",
+        "name": "Lost In Translation",
+        "players": "2",
+        "quizmaster": false,
+        "props": false,
+        "links": [
+            {
+                "name": "Google Translate",
+                "link": "https://translate.google.com"
+            }
+        ],
+        "rules": "When UK and US films are released in countries that don't speak English, the titles have to be translated. Players must create a list of these translations, translate them back into English, and their opponent must guess what the original UK/US film title was."
+    },
+    {
+        "mugID": 55,
+        "platform": "X",
+        "episode": 219,
+        "creator": "Darren and Rhiann",
+        "name": "Who's Older?",
+        "players": "2",
+        "quizmaster": false,
+        "props": false,
+        "rules": "You offer the other player a pair of famous people with the same, or similar, first name and they have to guess who is the older of the two."
+    },
+    {
+        "mugID": 56,
+        "platform": "X",
+        "episode": 220,
+        "creator": "Joe",
+        "name": "London Bridge",
+        "players": "2",
+        "quizmaster": false,
+        "props": true,
+        "rules": "Two hats: one filled with famous quotes from films, the other filled with different accents. A player picks out a random accent and quote, and reads the quote out loud in the accent. The other player has to guess the accent and the film that the quote is from. Two points for successfully guessing both, one point for guessing one."
+    },
+    {
+        "mugID": 57,
+        "platform": "X",
+        "episode": 221,
+        "creator": "Joe",
+        "name": "All The Gear, No Ikea",
+        "players": "2",
+        "quizmaster": false,
+        "props": false,
+        "links": [
+            {
+                "name": "Ikea",
+                "link": "https://www.ikea.com"
+            },
+            {
+                "name": "Google Translate",
+                "link": "https://translate.google.com"
+            }
+        ],
+        "rules": "Give the name of a product from Ikea, then list three possible English translations. Your opponent must guess the correct translation."
+    },
+    {
+        "mugID": 58,
+        "platform": "X",
+        "episode": 222,
+        "creator": "Bamos",
+        "name": "The Attendance Game",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Northern Premier League",
+                "link": "https://en.wikipedia.org/wiki/Northern_Premier_League#Current_members"
+            },
+            {
+                "name": "Southern Football League",
+                "link": "https://en.wikipedia.org/wiki/Southern_Football_League#Current_members"
+            },
+            {
+                "name": "Isthmian League",
+                "link": "https://en.wikipedia.org/wiki/Isthmian_League#Current_members"
+            }
+        ],
+        "rules": "One person acts as quizmaster. They choose a 7th or 8th tier league from somewhere in the UK and read out the first fixture and the attendance. They then read out the second fixture and invite the first competing player to guess whether it is simply higher or lower. This is repeated for the rest of the fixtures in the league, alternating between players."
+    },
+    {
+        "mugID": 59,
+        "platform": "X",
+        "episode": 223,
+        "creator": "Louis",
+        "name": "Larkink 182",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Each contestant is given a line of poetry/song lyrics. The player has to guess whether the line is from a poem by Phillip Larkin or a lyric by Blink 182. Players get five lines each, and a point for each line they get right."
+    },
+    {
+        "mugID": 60,
+        "platform": "X",
+        "episode": 224,
+        "creator": "George Egg",
+        "name": "Anything Twenty Questions",
+        "players": "2",
+        "quizmaster": false,
+        "props": false,
+        "rules": "It's twenty questions, but the thing you're thinking of can be anything (as long as the thing you're thinking about is the sort of thing the other person could be aware of)."
+    },
+    {
+        "mugID": 61,
+        "platform": "X",
+        "episode": 225,
+        "creator": "Stuart",
+        "name": "Country Codes",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "FIFA Country Codes",
+                "link": "https://en.wikipedia.org/wiki/List_of_FIFA_country_codes"
+            }
+        ],
+        "rules": "A variation of Station Master based on the 3-letter abbreviations used for FIFA country codes. A quizmaster names 5 FIFA country codes and the first player to name the correct country for each code wins the point."
+    },
+    {
+        "mugID": 62,
+        "platform": "X",
+        "episode": 226,
+        "creator": "Clementine",
+        "name": "Celebrities",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Players need to list as many celebrities as they can within a given field - e.g. female TV stars or great authors - each starting with the first letter of the last second name mentioned."
+    },
+    {
+        "mugID": 63,
+        "platform": "X",
+        "episode": 227,
+        "creator": "Adam",
+        "name": "Do They Share A Border?",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Two countries are named, players must state whether they share a border or not."
+    },
+    {
+        "mugID": 64,
+        "platform": "X",
+        "episode": 228,
+        "creator": "Joe",
+        "name": "Music Streaming Service Game",
+        "players": "2",
+        "quizmaster": false,
+        "props": false,
+        "rules": "One person will name a band or artist, and the other player has to guess what the top song on the music streaming service of your choice is."
+    },
+    {
+        "mugID": 65,
+        "platform": "X",
+        "episode": 229,
+        "creator": "Martin",
+        "name": "Radio Xchange Rate",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "links": [
+            {
+                "name": "Currency Exchange",
+                "link": "https://www.xe.com"
+            }
+        ],
+        "rules": "The competitors are presented with a figure in a foreign currency and they have to guess how much this would be in pounds quid sterling. Whoever is closest wins that round."
+    },
+    {
+        "mugID": 66,
+        "platform": "X",
+        "episode": 231,
+        "creator": "Ben",
+        "name": "Made Up Bands",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Players will say the name of a band, and others have to vote whether the band is fictional or not."
+    },
+    {
+        "mugID": 67,
+        "platform": "X",
+        "episode": 232,
+        "creator": "Rajheen",
+        "name": "First Line, Boooo That's Fine",
+        "players": "2",
+        "quizmaster": false,
+        "props": false,
+        "rules": "You pick a band and read out the first line of a song. Player two has to guess the song."
+    },
+    {
+        "mugID": 68,
+        "platform": "X",
+        "episode": 233,
+        "creator": "Paul",
+        "name": "Bear In Mind",
+        "players": "2",
+        "quizmaster": false,
+        "props": false,
+        "rules": "One of you thinks of a famous or fictional bear and announces 'Bear in Mind'. The other has 12 yes or no questions to guess the identity of the bear."
+    },
+    {
+        "mugID": 69,
+        "platform": "X",
+        "episode": 234,
+        "creator": "Harriet and Jack",
+        "name": "Reverse Caravan",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Player 1 picks something from within their environment and says the word out loud. The other players have up to 1 minute to come up with the longest possible word that they can that begins with the last letter of that word and ends with the first."
+    },
+    {
+        "mugID": 70,
+        "platform": "X",
+        "episode": 235,
+        "creator": "Tom",
+        "name": "Play Your Charts Right",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "The aim of the game is to get as far down a list of singles from a band by guessing if the position of a single reached higher or lower in the UK singles charts than the previous one on the list."
+    },
+    {
+        "mugID": 71,
+        "platform": "X",
+        "episode": 237,
+        "creator": "Gareth",
+        "name": "Are You Going To Say I Was Nearly 50 Lynne?",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "links": [
+            {
+                "name": "Google",
+                "link": "https://www.google.com"
+            }
+        ],
+        "rules": "Players take it in turns to name celebrities that they believe are 50. You look them up on Google, and once someone is correct the winner picks a new age (who is 34, for example)."
+    },
+    {
+        "mugID": 72,
+        "platform": "X",
+        "episode": 238,
+        "creator": "Matt",
+        "name": "What Have You Done 21",
+        "players": "2",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Each player needs to think of three things in the other person's life that will add up and come to 21. For example, minors on their driving test, number of times they have called 999, and the number of remote controls they have in their house. The closest to 21 wins."
+    },
+    {
+        "mugID": 73,
+        "platform": "X",
+        "episode": 239,
+        "creator": "Liam",
+        "name": "Planker's Delight",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Once person chooses a song and tries to say the entire lyrics while maintaining a plank position. If you finish the song then happy days, but if a planking gets too strenuous and you give in, you fail."
+    },
+    {
+        "mugID": 74,
+        "platform": "X",
+        "episode": 240,
+        "creator": "Jack",
+        "name": "Peter With The Teeth",
+        "players": "3+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Player 1 names a person they know that the other persons do not know. The other participants then take it in turns to describe the person based purely on their name. The description that player 1 deems closest to the truth wins."
+    },
+    {
+        "mugID": 75,
+        "platform": "X",
+        "episode": 241,
+        "creator": "Huw",
+        "name": "Top At What?",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "International Rankings",
+                "link": "https://en.wikipedia.org/wiki/List_of_top_international_rankings_by_country"
+            }
+        ],
+        "rules": "The quizmaster consults the Wikipedia page 'Top International Rankings by Country' and names a category (e.g. walnut exports). The contestants then have to guess the top value of that category (e.g. how many walnuts are exported by the top walnut exporter). "
+    },
+    {
+        "mugID": 76,
+        "platform": "X",
+        "episode": 242,
+        "creator": "Chris",
+        "name": "Alternative Forrest Gump",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "One player says the sentence 'Life is like...' and then picks a random noun. Player two must then complete the sentence in as fitting, profound or silly way as possible."
+    },
+    {
+        "mugID": 77,
+        "platform": "X",
+        "episode": 243,
+        "creator": "Tom",
+        "name": "It's Just A Body",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Players are asked to compare two items and state which is longer/bigger/smaller/wider. For example, what is longer - the circumference of John's head or Elis's forearm?"
+    },
+    {
+        "mugID": 78,
+        "platform": "X",
+        "episode": 244,
+        "creator": "John Robins",
+        "name": "Beat The Internet",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Google",
+                "link": "https://www.googe.com"
+            }
+        ],
+        "rules": "The quizmaster begins an internet search (e.g. 'Elis James is...') and players need to guess a phrase that appears in the search suggestion list. The highest placed phrase wins."
+    },
+    {
+        "mugID": 79,
+        "platform": "X",
+        "episode": 245,
+        "creator": "Josh",
+        "name": "The Temperature Game",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Met Office",
+                "link": "https://www.metoffice.gov.uk"
+            }
+        ],
+        "rules": "Using the weather section of an available newspaper, one person takes the role of temperature master and goes round to each person one by one asking what the daily high of a particular world city would be that day. A score is given to that person based on how close they are to the actual temperature, i.e. 0 points for spot on and then a point per degree away. The person with the lowest score wins."
+    },
+    {
+        "mugID": 80,
+        "platform": "X",
+        "episode": 246,
+        "creator": "Gareth",
+        "name": "Elliot Gould",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "links": [
+            {
+                "name": "IMDB",
+                "link": "https://www.imdb.com"
+            }
+        ],
+        "rules": "One player names a film, and the other player must guess how many characters of the title must be typed into the IMDB search box before the film appears at the top of the search results."
+    },
+    {
+        "mugID": 81,
+        "platform": "X",
+        "episode": 247,
+        "creator": "Anonymous",
+        "name": "Don't Get Me Started",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Players must go on a rant about something selected by their opponent. They must start with the phrase 'Don't get me started...' "
+    },
+    {
+        "mugID": 82,
+        "platform": "X",
+        "episode": 248,
+        "creator": "Liam",
+        "name": "Untitled",
+        "players": "2",
+        "quizmaster": false,
+        "props": false,
+        "rules": "You choose a piece of literature from which to read. You must read aloud a passage but at some point you must start improvising the rest of the lines. It will then be up to your opponent to guess where you stopped reading from the real text."
+    },
+    {
+        "mugID": 83,
+        "platform": "X",
+        "episode": 249,
+        "creator": "Sam",
+        "name": "Where On Earth Do You Fly From?",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "The quizmaster names an airline with an lesser-known title, and players must guess where the airline is based. The most correct guesses wins."
+    },
+    {
+        "mugID": 84,
+        "platform": "X",
+        "episode": 250,
+        "creator": "John Robins",
+        "name": "Guess The Age",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Players must guess the age of people they don't know. The first guess must be based on name and looks only. If incorrect, players can ask a subsidiary question and make another guess."
+    },
+    {
+        "mugID": 85,
+        "platform": "X",
+        "episode": 252,
+        "creator": "Sam",
+        "name": "Predicting The P",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "links": [
+            {
+                "name": "Google Maps",
+                "link": "https://www.google.co.uk/maps"
+            }
+        ],
+        "rules": "Players are given a location in the UK and must guess how much time it would take to walk there from their current location. Answers can be checked by typing in directions in Google Maps and then switching over to walking instead of driving."
+    },
+    {
+        "mugID": 86,
+        "platform": "X",
+        "episode": 253,
+        "creator": "Andrew",
+        "name": "The Name Game",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Baby Names",
+                "link": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/bulletins/babynamesenglandandwales/2021"
+            }
+        ],
+        "rules": "Players think of a name that they don't think babies would be called any more and check it's position in a list of baby names for that year (or the previous year) to use as a starting number. A quizmaster then thinks of different names and players must state whether they are higher or lower in the rankings to the previous name. "
+    },
+    {
+        "mugID": 87,
+        "platform": "X",
+        "episode": 255,
+        "creator": "Amelia",
+        "name": "The Ingredients Game",
+        "players": "2+",
+        "quizmaster": false,
+        "props": true,
+        "rules": "Pick up a condiment from the table. Players then take it in turns to guess an ingredient that they think is in the product. The first one to guess an incorrect ingredient is the loser. The winner can then win an extra point by naming a further correct ingredient."
+    },
+    {
+        "mugID": 88,
+        "platform": "X",
+        "episode": 257,
+        "creator": "Tom",
+        "name": "Billy Know-All",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "We Didn't Start the Fire",
+                "link": "https://en.wikipedia.org/wiki/We_Didn%27t_Start_the_Fire"
+            }
+        ],
+        "rules": "Each couplet in the song 'We Didn't Start the Fire' by Billy Joel refers to a certain year. A quizmaster presents one of the couplets and players must guess the year."
+    },
+    {
+        "mugID": 89,
+        "platform": "X",
+        "episode": 258,
+        "creator": "Josh",
+        "name": "Middle Of The Road",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Players take it in turns to name something that is middle of the road, until someone pauses or names something that is not middle of the road."
+    },
+    {
+        "mugID": 90,
+        "platform": "X",
+        "episode": 259,
+        "creator": "John Robins",
+        "name": "Is This Cool?",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Based on 'Middle of the Road', players take it in turns to name something that is cool until someone pauses or names something that is not cool."
+    },
+    {
+        "mugID": 91,
+        "platform": "X",
+        "episode": 260,
+        "creator": "Jane",
+        "name": "Alternative Animals",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster presents alternative names for animals (e.g. barcode donkey for zebra, neck horse for giraffe). Players must guess what the real animal is."
+    },
+    {
+        "mugID": 92,
+        "platform": "X",
+        "episode": 261,
+        "creator": "Gary",
+        "name": "How Many Bees?",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster calculates how many of a specific animal would be needed to weigh the same as them. Players then must guess that number."
+    },
+    {
+        "mugID": 93,
+        "platform": "X",
+        "episode": 262,
+        "creator": "JP",
+        "name": "When Were They Formed?",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster picks some bands, and players must guess when they were formed. Each player gets a point for each year off they were. The player with the least points wins."
+    },
+    {
+        "mugID": 94,
+        "platform": "X",
+        "episode": 263,
+        "creator": "Jack",
+        "name": "Bigger But Not Too Big",
+        "players": "2",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Player one thinks of an object but does not tell the other player what they are thinking of. Player two must then guess an object. If the guessed object is then bigger, but not too much bigger, player two wins. If the guessed object is smaller or too much bigger then player one wins."
+    },
+    {
+        "mugID": 95,
+        "platform": "BBC",
+        "episode": 1,
+        "creator": "Tash and Matt",
+        "name": "The Rotten Tomatoes Game",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "links": [
+            {
+                "name": "Rotten Tomatoes",
+                "link": "https://www.rottentomatoes.com"
+            }
+        ],
+        "rules": "Players pick a genre, the more obscure the better. Each player has to name a film they think has the lowest Rotten Tomatoes Tomatometer score. The lowest score wins."
+    },
+    {
+        "mugID": 96,
+        "platform": "BBC",
+        "episode": 2,
+        "creator": "Sam",
+        "name": "The Generation Name",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster picks a year and finds a list of the top 10 male and female baby names from that year in the UK. The contestants each guess one male and one female name from that year. If the name is guessed correctly, points are awarded in reverse order from 10 to 1, i.e. the number one most common name gets 10 points, the second gets 9 points, and so on. The player with the most points after 3 rounds is the winner."
+    },
+    {
+        "mugID": 97,
+        "platform": "BBC",
+        "episode": 3,
+        "creator": "Kate",
+        "name": "The Motorway Game",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "links": [
+            {
+                "name": "UK Motorways",
+                "link": "https://en.wikipedia.org/wiki/List_of_motorways_in_the_United_Kingdom"
+            }
+        ],
+        "rules": "Players are given three motorways each and need to give the correct start and endpoint of that motorway. Players are awarded half a point for each correct answer."
+    },
+    {
+        "mugID": 98,
+        "platform": "BBC",
+        "episode": 4,
+        "creator": "Sam",
+        "name": "Birthday Number Ones",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Number 1 Songs",
+                "link": "https://www.mybirthdayfacts.com/number-one-song.htm"
+            }
+        ],
+        "rules": "A quizmaster finds out what song was number one on the day you were born, and on your tenth, twentieth and thirtieth birthday. They then play a short clip of each song and you need to guess the song title (1 point), the band or artist (1 point), and the milestone birthday it landed on (1 point)."
+    },
+    {
+        "mugID": 99,
+        "platform": "BBC",
+        "episode": 5,
+        "creator": "Steve",
+        "name": "Death Zoo",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Google",
+                "link": "https://www.google.com"
+            }
+        ],
+        "rules": "A quizmaster picks an animal, and players have to guess what the average life expectancy is for said animal. The player closest to the correct answer wins the point, and the player with the most points wins the game."
+    },
+    {
+        "mugID": 100,
+        "platform": "BBC",
+        "episode": 8,
+        "creator": "Marcus",
+        "name": "Play Your Casks Right",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Google",
+                "link": "https://www.google.com"
+            }
+        ],
+        "rules": "A quizmaster names an ale along with its alcohol strength as a percentage. Players then need to guess if the next ale is higher or lower than the previous tipple. If correct they carry on, if not the next player takes over and takes control of the run. The winner is the player who answers the last one correctly."
+    },
+    {
+        "mugID": 101,
+        "platform": "BBC",
+        "episode": 9,
+        "creator": "Matt",
+        "name": "Oooo, What's The Weather Like?",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "World Weather Online",
+                "link": "https://www.worldweatheronline.com"
+            }
+        ],
+        "rules": "A quizmaster picks 5 cities from around the world. Players must guess what the weather and temperature currently is in that city.With the temperature you are scored a point for every degree you are away from the correct answer. With the type of weather, you get one point deducted if you are able to name the exact type of weather that the city is experiencing. The lowest score wins."
+    },
+    {
+        "mugID": 102,
+        "platform": "BBC",
+        "episode": 10,
+        "creator": "Laurie",
+        "name": "The Ball Game",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Ball Speeds",
+                "link": "https://meanwhileinireland.com/fastest-ball-games-in-the-world/"
+            }
+        ],
+        "rules": "A quizmaster picks 5 sports that are played with a ball. Players take it in turns to guess the fastest recorded ball speed of said sport in miles per hour. The person closest to the correct answer wins a point."
+    },
+    {
+        "mugID": 103,
+        "platform": "BBC",
+        "episode": 11,
+        "creator": "Christopher",
+        "name": "Currency Bingo",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "links": [
+            {
+                "name": "Currency Exchange",
+                "link": "https://www.xe.com"
+            }
+        ],
+        "rules": "Players are presented with 100 in any currency (e.g. 100 Jordanian Dinar), and have to guess how much it would be in UK pounds sterling."
+    },
+    {
+        "mugID": 104,
+        "platform": "BBC",
+        "episode": 12,
+        "creator": "Alex",
+        "name": "5-a-day",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "links": [
+            {
+                "name": "Google",
+                "link": "https://www.google.com"
+            }
+        ],
+        "rules": "Players must guess how many of each fruit or vegetable you would need to eat for your one portion of your 5-a-day. The player with the closest answer wins the point."
+    },
+    {
+        "mugID": 105,
+        "platform": "BBC",
+        "episode": 13,
+        "creator": "Producer Dave",
+        "name": "Spotifive",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "links": [
+            {
+                "name": "Google",
+                "link": "https://open.spotify.com"
+            }
+        ],
+        "rules": "Players name a band that they want to play Spotifive with. They then need to guess what the top five tracks on Spotify are for that band."
+    },
+    {
+        "mugID": 106,
+        "platform": "BBC",
+        "episode": 14,
+        "creator": "Naomi",
+        "name": "Dominames",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "Players must link a number of celebrities by connecting their first and second names together. A quizmaster gives players the starting name (for example, Daniel Craig). Players then take it in turns to use the surname to form the first name of the next celebrity. For example, Daniel Craig, Craig David, and so forth. Players use the same starting name, so they must put on headphones or put their fingers in their ears when it is not their turn. The longest chain of names wins."
+    },
+    {
+        "mugID": 107,
+        "platform": "BBC",
+        "episode": 15,
+        "creator": "Tom",
+        "name": "How Long Is A While",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster presents players with a number of scenarios featuring a vague measure of time (e.g. 'I'll be back in a while') and they must guess how long that measure of time might be in hours/minutes/seconds. The closest to the correct time gets the points."
+    },
+    {
+        "mugID": 108,
+        "platform": "BBC",
+        "episode": 16,
+        "creator": "Rob",
+        "name": "Untitled",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Google Maps",
+                "link": "https://www.google.co.uk/maps"
+            }
+        ],
+        "rules": "A quizmaster picks any town or city in Great Britain. The players must then scribble down which town or city is closest to that location. The shortest distance by car wins the point."
+    },
+    {
+        "mugID": 109,
+        "platform": "BBC",
+        "episode": 17,
+        "creator": "Mike and Sally",
+        "name": "Estimodes",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "links": [
+            {
+                "name": "Google",
+                "link": "https://www.google.com"
+            }
+        ],
+        "rules": "Players take turns in estimating the number of episodes of specific tv shows. The closest guess wins the point."
+    },
+    {
+        "mugID": 110,
+        "platform": "BBC",
+        "episode": 18,
+        "creator": "Matt",
+        "name": "Scrabbled",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Scrabble Dictionary",
+                "link": "https://scrabble.hasbro.com/en-us/tools"
+            }
+        ],
+        "rules": "A quizmaster picks a page at random from the official Scrabble dictionary and reads out the first and last word on the page. Players take it in turns to name as many words as they can in 30 seconds that they think appear on that page. Variations on the same word are allowed - i.e. vibe, vibes, vibing etc."
+    },
+    {
+        "mugID": 111,
+        "platform": "BBC",
+        "episode": 19,
+        "creator": "James",
+        "name": "Capattack",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Venue Capacities",
+                "link": "https://en.wikipedia.org/wiki/List_of_venues_in_the_United_Kingdom"
+            }
+        ],
+        "rules": "A quizmaster picks venues (live music, sport) from across the globe, and players take it in turns to guess the capacity of the venue. The person closest to the actual number wins the point."
+    },
+    {
+        "mugID": 112,
+        "platform": "BBC",
+        "episode": 20,
+        "creator": "Joe",
+        "name": "Untitled",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Autotrader",
+                "link": "https://www.autotrader.co.uk"
+            }
+        ],
+        "rules": "A quizmaster goes onto the Autotrader and does a national search for a used car that is no longer in production. Players then have to guess the price of the most expensive car of that type."
+    },
+    {
+        "mugID": 113,
+        "platform": "BBC",
+        "episode": 21,
+        "creator": "Anonymous",
+        "name": "Babyage Fanclub",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "CDC (Child Development)",
+                "link": "https://www.cdc.gov/ncbddd/actearly/milestones/index.html"
+            }
+        ],
+        "rules": "A quizmaster pre-selects 5 key milestones in a child's development (from cdc.gov) from birth to age 5. Players then have to guess the average age in months or years that the child achieves the said milestone."
+    },
+    {
+        "mugID": 114,
+        "platform": "BBC",
+        "episode": 22,
+        "creator": "Charlotte",
+        "name": "One Hit Wonders",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Spotify",
+                "link": "https://www.spotify.com"
+            }
+        ],
+        "rules": "A quizmaster picks 5 artists who have had a one-hit wonder. They then go to Spotify and, using the \"play count\" feature, finds out what the chosen artist's second biggest song is. They play a clip of said song and players need to guess the artist."
+    },
+    {
+        "mugID": 115,
+        "platform": "BBC",
+        "episode": 23,
+        "creator": "Richard",
+        "name": "How Many Waleses?",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Country Sizes",
+                "link": "https://www.thetruesize.com/#?borders=1~!MTU5Mjc3MDM.NDIyMjY0OA*MzIwMzUxMjc(NTQ1NzAwMg~!CONTIGUOUS_US*MTAwMjQwNzU.MjUwMjM1MTc(MTc1)MA~!IN*NTI2NDA1MQ.Nzg2MzQyMQ)Mg~!CN*OTkyMTY5Nw.NzMxNDcwNQ(MjI1)MQ"
+            }
+        ],
+        "rules": "A quizmaster picks 5 countries or places and players take it in turns to guess how many times bigger they are than Wales."
+    },
+    {
+        "mugID": 116,
+        "platform": "BBC",
+        "episode": 24,
+        "creator": "Anthony",
+        "name": "The Name Game",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Random Letter Generator",
+                "link": "https://randomwordgenerator.com/letter.php"
+            }
+        ],
+        "rules": "A quizmaster selects two random letters from a random letter generator online. Players then have 30 seconds to name as many famous people whose first name and surname begin with those two letters. As such, should \"F\" and \"M\" be drawn, answers such as Freddie Mercury or Michael Faraday would both be acceptable. Players get 1 point for each famous person they name in their round, and the player with the most points at the end wins."
+    },
+    {
+        "mugID": 117,
+        "platform": "BBC",
+        "episode": 25,
+        "creator": "Claire and Dan",
+        "name": "Time to Take the Train, Ch-ch-changes",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "National Rail",
+                "link": "https://www.nationalrail.co.uk"
+            }
+        ],
+        "rules": "Using the National Rail weekday timetable website, a quizmaster chooses a start and end location and a time that you would get on said train. Players take it in turns to guess how many changes there will be (the amount of changes gets you one point and the correct station gets you another point), and the duration of the selected journey (three points if your answer is 5 minutes out either way, 2 points for 10 minutes, and 1 point for 15 minutes)."
+    },
+    {
+        "mugID": 118,
+        "platform": "BBC",
+        "episode": 26,
+        "creator": "Ian",
+        "name": "The Sponsorship Football Team Game",
+        "players": "2",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster picks a team. Depending on the toss of a coin, players have to state how many sponsors of said team they think they can name within 30 seconds. The opposing player can then either ask them to play or challenge. Play means the player who stated the number has to go for it, challenge means the challenger thinks they can do better and they go for the number of sponsors they then state. Whoever ends up playing the round must hit the number of sponsors they said they could name. If they fall short, the opposing player could steal the round by naming just one sponsor that wasn't mentioned."
+    },
+    {
+        "mugID": 119,
+        "platform": "BBC",
+        "episode": 27,
+        "creator": "Sarah",
+        "name": "Spotify Blackjack",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "links": [
+            {
+                "name": "Spotify",
+                "link": "https://www.spotify.com"
+            }
+        ],
+        "rules": "When browsing artists in Spotify, the number of monthly listens is displayed in the \"about\" section. Furthermore, if the artist ranks in the top 500 in the world, this rank will be displayed in a white bubble top right of the profile page. The aim of the game is to find an artist with as low a bubble ranking as possible without going bust - i.e. as close to 500 without going over. Each player picks three artists, the aim of the game is to score the most points with these three acts while remaining within white bubble territory. If you pick an artist outside the top 500 you score zero."
+    },
+    {
+        "mugID": 120,
+        "platform": "BBC",
+        "episode": 28,
+        "creator": "Jay",
+        "name": "The Height of Fame",
+        "players": "2",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Celebrity Heights",
+                "link": "https://celebheights.com"
+            }
+        ],
+        "rules": "The aim of the game is to guess which celebrities are higher, taller, or lower, shorter, than other celebrities. A quizmaster picks the first celebrity and give their height in feet and inches. They will then name a second celebrity. The first player, decided by coin toss, then has to decide whether the second celebrity is higher or lower than the first. If the contestant in play gets this right they continue, but if they get it wrong the second player takes over. 1 point is awarded if you guess higher or lower correctly, 2 bonus points are awarded if you guess their height measurements bang on."
+    },
+    {
+        "mugID": 121,
+        "platform": "BBC",
+        "episode": 30,
+        "creator": "Sarah",
+        "name": "Family Fortunes",
+        "props": false,
+        "players": "2+",
+        "quizmaster": true,
+        "rules": "The rules are very similar to the game Family Fortunes - get everyone to answer a set of festive questions, gather the results, create the top 5 answers for each question, and then it's head-to-head between contestants for as many rounds as you like. A quizmaster asks a question, players then need to buzz in the quickest with what they think the highest answer to that question might be. If it's the top answer, they win the round straight off the bat. If it's not the top answer but is in the top five, the opposing contestant has a chance to steal the point by going for an answer that is higher up the list. If their guess isn't even in the top 5, the opposing contestant not only gets one point immediately, but has the chance to gain a bonus point by getting an answer in the top 5."
+    },
+    {
+        "mugID": 122,
+        "platform": "BBC",
+        "episode": 32,
+        "creator": "Tom and Roxy",
+        "name": "Social Action",
+        "players": "2",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Instagram",
+                "link": "https://www.instagram.com"
+            }
+        ],
+        "rules": "A quizmaster goes through the players more notable posts on Instagram (or other social media platforms). Players then have to guess whether the social media post in play got more or fewer likes than the previous one. If you guess right, you remain in play. If your guess is wrong, play hands over to the other player. The player in control at the end wins."
+    },
+    {
+        "mugID": 123,
+        "platform": "BBC",
+        "episode": 33,
+        "creator": "Edward",
+        "name": "Horse, Ale, or Pub",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster will name a horse, an ale, and a pub. Players then need to guess which is a horse's name, which is an ale, and which is a pub. You get a point for every right answer, and the person with the most points at the end wins."
+    },
+    {
+        "mugID": 124,
+        "platform": "BBC",
+        "episode": 34,
+        "creator": "Ian and Tom",
+        "name": "Name the Nineties",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster picks big events from the nineties, players need to guess which year they happened in to gain 1 point. For an added bonus point in each round, the quizmaster will hit you with a follow-up question based on the nineties event in the initial question."
+    },
+    {
+        "mugID": 125,
+        "platform": "BBC",
+        "episode": 35,
+        "creator": "Tim",
+        "name": "Slangity Slang",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "The game consists of two rounds. Round 1: a quizmaster gives you three slang words used in a sentence, players have to say what each word means. Round 2: the quizmaster gives you three slang acronyms that the kids are using, players have to extrapolate each abbreviation."
+    },
+    {
+        "mugID": 126,
+        "platform": "BBC",
+        "episode": 36,
+        "creator": "Darren",
+        "name": "Five Live",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Setlist",
+                "link": "https://setlist.fm"
+            }
+        ],
+        "rules": "A quizmaster picks 6 bands. Players must name the top 5 tracks, over their entire career, that the band have played live."
+    },
+    {
+        "mugID": 127,
+        "platform": "BBC",
+        "episode": 38,
+        "creator": "Dave and Jenny",
+        "name": "How Much?",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Amazon",
+                "link": "https://www.amazon.co.uk"
+            }
+        ],
+        "rules": "A quizmaster picks an item from Amazon, and players need to guess the price of said item from Amazon. The player closest to the correct price wins the point. There are 5 rounds, and the person with the most points at the end of the game wins."
+    },
+    {
+        "mugID": 128,
+        "platform": "BBC",
+        "episode": 40,
+        "creator": "Jim",
+        "name": "Football Chant Pub Quiz Music Round",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster chooses 5 football chants that have been taken from a well-known song. Players then have to try to guess the name of said original artist and song. 1 point for the artist, and 1 point for the song. The person with the most points at the end of the game wins."
+    },
+    {
+        "mugID": 129,
+        "platform": "BBC",
+        "episode": 42,
+        "creator": "Dan",
+        "name": "Just a Second",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Spotify",
+                "link": "https://www.spotify.com"
+            }
+        ],
+        "rules": "The aim of the game is to identify a song by only playing 1 second of it. The rounds are played in a home and away style - a quizmaster will pick out three songs tailored to your tastes (home) and another three that aren't (away). If you answer your home round correctly you get a maximum of two points, one for artist and one for title, but if you're brave enough to go away a maximum of four points are available, two for artist and two for title. It's best of three and whoever has the most points at the end of the game wins."
+    },
+    {
+        "mugID": 130,
+        "platform": "BBC",
+        "episode": 44,
+        "creator": "Wendy",
+        "name": "Which Three Alans",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "Before the game, a quizmaster picks three names for each player, and they must then pick their three favourite famous people who have that first name. The other player must then try to guess who is on their list. Each correct guess gets a point for the guesser, the player with the most points at the end of the game wins."
+    },
+    {
+        "mugID": 131,
+        "platform": "BBC",
+        "episode": 46,
+        "creator": "Alister",
+        "name": "Is it in League with the Lug",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Google",
+                "link": "https://www.google.com"
+            }
+        ],
+        "rules": "A quizmaster picks a river in the UK and reveals the name, location, and a short description. Players then have to guess what the average rating on Google Reviews is, which is out of 5. Players are allowed to guess in decimal points, the closest to the correct answer wins the round, and it's best out of 5. There is a bonus point available in each round to the person who correctly guesses the name of the river from the quizmaster's description."
+    },
+    {
+        "mugID": 132,
+        "platform": "BBC",
+        "episode": 48,
+        "creator": "Peter",
+        "name": "Postcodes",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Postcode Finder",
+                "link": "https://postcodefinder.net"
+            }
+        ],
+        "rules": "A quizmaster picks 30 pairs of letters chosen from postcode areas within the British Isles, and breaks them up into 3 sections: easy, 1 point; moderate, 2 points; difficult, 3 points. Players have to choose which category they want to go for, and then work out the postal town the initials provided refer to. They can obtain an additional bonus point by naming the county that the town comes under. The winner is the contestant that has accumulated the most number of points over however many rounds you want to play for."
+    },
+    {
+        "mugID": 133,
+        "platform": "BBC",
+        "episode": 50,
+        "creator": "Darren",
+        "name": "Great Orators",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Famous Speeches",
+                "link": "https://www.themanual.com/culture/famous-speeches-from-history/"
+            }
+        ],
+        "rules": "A quizmaster picks 6 famous speeches from the 20th or 21st centuries. They then start to read a passage from the speech and contestants have to buzz in when they think they know whose the speech is. They get a point for the person delivering the speech, a point for the year, and a point for the location of the speech. There are 5 rounds, the person with the most points at the end wins the game."
+    },
+    {
+        "mugID": 134,
+        "platform": "BBC",
+        "episode": 53,
+        "creator": "James",
+        "name": "Iiiiiiiiiiiiiiiin One",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "This game is based loosely on the classic TV game show Bullseye, and specifically the round \"Bully's Prize Board\". If you remember, before getting to the darts Jim Bowen, with the help of Tony, would go through the 9 prizes available on that week's prize board. Jim would then always prefix the announcement of the prize with a little jokey clue. Here's how to play: players take it in turns to guess what the prize was from Jim's jokey clue. For example, Jim would say \"You'll be the toast of the town with this\", the answer \"a sandwich toaster\". Players get a point for each correct answer and the player with the most points at the end wins."
+    },
+    {
+        "mugID": 135,
+        "platform": "BBC",
+        "episode": 56,
+        "creator": "Ricky",
+        "name": "Untitled",
+        "players": "2",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Contestant 1 describes two appliances, fixtures or objects from their home, one of which is real and one that is made up. Through questions and general interrogation, contestant 2 has to figure out which is which."
+    },
+    {
+        "mugID": 136,
+        "platform": "BBC",
+        "episode": 59,
+        "creator": "Rachel",
+        "name": "Untitled",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "This is a music-based game. A quizmaster picks six categories and randomly numbers them 1 to 6. Contestants then take it in turns to pick one of the numbers. The number you choose will determine the category you get. For example, the number 4 could be \"girls names\". You then have 10 seconds to name as many songs as you can with a girls name in the title. You get a point for each one you name. There are three rounds, the person with the most points at the end wins."
+    },
+    {
+        "mugID": 137,
+        "platform": "BBC",
+        "episode": 62,
+        "creator": "Rob",
+        "name": "Risk a Fifth",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster picks five \"Top 5\" lists, and in each round each of the contestants have to guess one of the entries on one of the said lists, alternating who goes first no each round. Points are awarded according to their position on the list (1st = 1 point, 2nd = 2 points, etc.). The player with the most points at the end wins."
+    },
+    {
+        "mugID": 138,
+        "platform": "BBC",
+        "episode": 65,
+        "creator": "Bennett",
+        "name": "How Many of Me",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "How Many of Me",
+                "link": "http://howmanyofme.com"
+            }
+        ],
+        "rules": "This is a play-your-cards-right style of game. Contestants toss a coin to see who goes first, and then a quizmaster picks a name - for example, Robert Green - and uses the website \"How Many of Me\" to find out how many people in the US share that name. There are 8005 people with the name Robert Green. The next contestant will then have to guess if the next name has a higher or lower amount of people than the aforementioned Robert Green. If a player guesses incorrectly, it passes to the next player. The player in control after 10 rounds wins the game."
+    },
+    {
+        "mugID": 139,
+        "platform": "BBC",
+        "episode": 69,
+        "creator": "Andy",
+        "name": "Auckland to Gibraltar",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "How Far Between Places",
+                "link": "https://www.freemaptools.com/how-far-is-it-between.htm"
+            }
+        ],
+        "rules": "The aim of the game is to name two places which are the furthest from each other as the crow flies. A quizmaster picks two random letters. Contestants then write down a place, village, town, or city, which begins with the selected letters. For example, if P and B were selected you could go with Paris and Boston, which would be 3436 miles. The person with the highest answer in miles wins the points, and it's best of three."
+    },
+    {
+        "mugID": 140,
+        "platform": "BBC",
+        "episode": 71,
+        "creator": "Olly",
+        "name": "Faroe or Falklands",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "This is a follow-on game to \"Auckland to Gibraltor\" where you have to guess which fact relates to where. A quizmaster selects a number of facts, and contestants need to guess whether they are about the Faroe Islands or the Falkland Islands. The most correct answers wins."
+    },
+    {
+        "mugID": 141,
+        "platform": "BBC",
+        "episode": 74,
+        "creator": "Lewis",
+        "name": "Untitled",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Cameo",
+                "link": "http://cameo.com"
+            },
+            {
+                "name": "CelebVM",
+                "link": "http://celebvm.com"
+            }
+        ],
+        "rules": "A quizmaster gives the name of a celebrity, and contestants have to guess how much they think a personalised message from them would cost. The closest person to the correct amount wins that round. There are five rounds and the person with the most points at the end of the game wins."
+    },
+    {
+        "mugID": 142,
+        "platform": "BBC",
+        "episode": 77,
+        "creator": "Nick",
+        "name": "Football's Coming Home",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Google Maps",
+                "link": "https://www.google.co.uk/maps"
+            }
+        ],
+        "rules": "A quizmaster drops a pin on a random location in Google Maps. Players then need to guess which football ground is closest to the pin. There are a variety of points available in each round. The closest League 2 ground gets you four points, a League 1 ground gets you three, a Championship ground gets you two, and a Premier League ground gets you one. Your answers will need to be the shortest distance by car."
+    },
+    {
+        "mugID": 143,
+        "platform": "BBC",
+        "episode": 80,
+        "creator": "Hannah",
+        "name": "Todger Trivia",
+        "players": "2",
+        "quizmaster": true,
+        "props": false,
+        "rules": "The quizmaster creates a series of questions about the Elis James and John Robins show for the players to answer. players could choose to go \"home\" for one point (questions about themselves) or \"away\" for two points (questions about the other presenter). You could choose to ignore this, or possibly adopt it if you have a \"favourite\" presenter you want to play as. The most correct answers wins the game."
+    },
+    {
+        "mugID": 144,
+        "platform": "BBC",
+        "episode": 82,
+        "creator": "Olly",
+        "name": "55",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Celebrity Birthdays",
+                "link": "https://www.famousbirthdays.com"
+            }
+        ],
+        "rules": "A quizmaster chooses a date from the past 100 years. Contestants then have to guess a famous person whose date of birth falls closest to that date. The game is called 55 because the first date for this game is always 5th May 1955. The quizmaster then chooses four more dates. The contestant with the most points at the end wins."
+    },
+    {
+        "mugID": 145,
+        "platform": "BBC",
+        "episode": 84,
+        "creator": "Sam and Amy",
+        "name": "Ale-verage",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Pint Price Map",
+                "link": "https://www.finder.com/uk/international-pint-price-map"
+            }
+        ],
+        "rules": "A quizmaster chooses a city, and contestants need to guess how much they think a pint of beer costs in pounds and pence sterling in said city. Closest to the correct price wins that round, and it's best of 5."
+    },
+    {
+        "mugID": 146,
+        "platform": "BBC",
+        "episode": 86,
+        "creator": "Gavin",
+        "name": "How Many Richard Osmans",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "100 Tallest Buildings",
+                "link": "https://www.skyscrapercenter.com/buildings"
+            }
+        ],
+        "rules": "A quizmaster chooses a famous structure, then contestants need to work out how tall said structure is by guessing how many Richard Osmans. You can only use full Osmans, no halves or quarters. The quizmaster will round up or down to the nearest full Richard Osman (2 metres, 6ft 7). It's best of 5 rounds, and the person with the most points at the end wins."
+    },
+    {
+        "mugID": 147,
+        "platform": "BBC",
+        "episode": 88,
+        "creator": "Claire",
+        "name": "Yoga or Noga",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster gives 5 names to each contestant. Contestants then need to guess whether it's a yoga pose or a band that once played at Glastonbury Festival. The person with the most points at the end of the game wins."
+    },
+    {
+        "mugID": 148,
+        "platform": "BBC",
+        "episode": 90,
+        "creator": "Neil",
+        "name": "Top Ten Gamble",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster chooses a top ten category. For example, they could choose the top ten most populated countries in the world. The contestant will then have 20 seconds to name as many countries they think fits into the top ten. You get one point for each correct answer, but you lose half a point for every incorrect answer. The person with most points at the end of the game wins."
+    },
+    {
+        "mugID": 149,
+        "platform": "BBC",
+        "episode": 92,
+        "creator": "Sam",
+        "name": "Sequences",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "Each round consists of a list of things that make up a sequence. It could be names, numbers, words, etc. It's up to the contestants to a) recognise the sequence, and b) continue the sequence. If you correctly identify the sequence you get one point, if you can then correctly guess the next item in the sequence you get the two full points for that round. If your guess of what follows in the sequence is incorrect, the other player can steal that point. It's best of 5, the player with the most points at the end of the game wins."
+    },
+    {
+        "mugID": 150,
+        "platform": "BBC",
+        "episode": 93,
+        "creator": "Rich",
+        "name": "Keep Your NME's Close",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "List of NME Covers",
+                "link": "https://en.wikipedia.org/wiki/List_of_NME_covers"
+            }
+        ],
+        "rules": "A quizmaster chooses a year from the 90's. Contestants then have to write down three acts or artists that they think were on the front cover of the NME in that year. There are three rounds in total, you get a point for each correct answer, the person with the most points at the end of the game wins. If you go for a solo artist, said artist must have appeared on the cover on their own. Finally, because there are certain NME favourites who appear across many years, you can only choose each band or artist once across all three rounds, so choose carefully."
+    },
+    {
+        "mugID": 151,
+        "platform": "BBC",
+        "episode": 94,
+        "creator": "Mike",
+        "name": "Fans Also Like",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Spotify",
+                "link": "https://www.spotify.com"
+            }
+        ],
+        "rules": "On one particular music streaming service there is a \"Fans also like\" section for each act which lists 20 other related artists that listeners might also enjoy listening to. For each round there is going to be a starting artist. The contestant who is in play then needs to name a band or artist that appears within that artist's \"Fans also like\" section. If correct, from there the same contestant needs to do the same with the previously guessed act. For instance, if Coldplay was the starting artist and a contestant correctly guessed Keane, they would then need to name a band or artist from Keane's \"Fans also like\" section. The maximum running streak is 5. To start each round, a quizmaster gives the choice of \"home\" or \"away\". If a contestant chooses \"home\", they can pick their own starting artist, with one point awarded for each correct answer thereafter. If they choose away, the quizmaster randomly picks a starting artist for them, with two points up for grabs for each correct answer. There are three rounds each, you can only name an artist once in each round. The player with the most points at the end of the game wins."
+    },
+    {
+        "mugID": 152,
+        "platform": "BBC",
+        "episode": 95,
+        "creator": "Mike",
+        "name": "Untitled",
+        "players": "2",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster chooses an episode of Celebrity Pointless. All episodes have a theme, so for instance the quizmaster could choose \"Eastenders\". They will then read out the first names of the 8 actors from the soap who appeared on said episode of Pointless. The aim of the game is to guess the full names of as many celebs as possible. Depending on how confident the contestants are with the collection of celebrities listed by their first names and the theme of the episode, they'll all write down how many they think they know. The contestant whose guess is highest plays the round, unless the opposing player then fancies bidding higher. The incremental bidding can continue until either contestant challenges the other to play with the number of names they think they can get. If they are successful, they win the round. If they fail to get the number of correct answers they claimed they would, the point goes to the other player without them having to lift a finger."
+    },
+    {
+        "mugID": 153,
+        "platform": "BBC",
+        "episode": 96,
+        "creator": "Adam",
+        "name": "How Much Per Kilo",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster picks an item and contestants have to guess how much the price is per kilo. They need to write their answers down so they don't influence the other players, and the person who is closest to the correct price wins the point. It's best of 5, the person with the most points at the end wins."
+    },
+    {
+        "mugID": 154,
+        "platform": "BBC",
+        "episode": 97,
+        "creator": "Sophie and Chris",
+        "name": "Word Up",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster plays a clip of a song containing just one word from the chosen track. From the one word, the contestant has to correctly identify the act and the track in question. There are three rounds for each player, and to add a bit of spice to proceedings you can choose to go \"home\" or \"away\" within your round. \"Home\" is a more familiar track to the contestant in play, which gets you 1 point for the act and 1 point for the track. \"Away\" is less familiar, with 2 points for the act and 2 points for the track. The person with the most points at the end wins."
+    },
+    {
+        "mugID": 155,
+        "platform": "BBC",
+        "episode": 98,
+        "creator": "Holly",
+        "name": "Who's My Neighbour?",
+        "players": "2",
+        "quizmaster": false,
+        "props": false,
+        "links": [
+            {
+                "name": "American State Map",
+                "link": "https://www.google.com/maps/place/United+States/@37.6,-95.665,4z/data=!3m1!4b1!4m5!3m4!1s0x54eab584e432360b:0x1c3bb99243deb742!8m2!3d37.09024!4d-95.712891"
+            }
+        ],
+        "rules": "Contestants take it in turns to pick a US state. They then have to try to name as many bordering states as possible. For every neighbouring state they get correct they get 1 point. Obviously some states have more bordering states than others, so pick carefully. The moment a contestant guess incorrectly their round is up. At this point the opposing player can swoop in and gain points for themselves by trying to name the remaining states. Best of three rounds, the player with the most points at the end wins."
+    },
+    {
+        "mugID": 156,
+        "platform": "BBC",
+        "episode": 99,
+        "creator": "Jodie",
+        "name": "How Long Did It Take To Build",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster will choose a building or bridge, and contestants will have to guess how long it took to build in years. The closest person to the correct answer wins one point. If they get it bang on they get two points."
+    },
+    {
+        "mugID": 157,
+        "platform": "BBC",
+        "episode": 100,
+        "creator": "Joe",
+        "name": "The Number Ones Game",
+        "players": "2",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Number 1 Songs",
+                "link": "https://www.mybirthdayfacts.com/number-one-song.htm"
+            }
+        ],
+        "rules": "A quizmaster selects a year between 1952 and now. Contestants then name a song that they think got to number 1 in the UK charts that year. They get 2 points for a correct artist and title. However, if you correctly guess the artist but the title is incorrect, you'll get your 1 point but the opposing player can then steal the remaining point if they can get the title. Likewise, if the contestant in play fails to correctly name either artist or title, the opposing player can nip in to steal the points there as well. It's 3 rounds each, the player with the most points at the end wins."
+    },
+    {
+        "mugID": 158,
+        "platform": "BBC",
+        "episode": 101,
+        "creator": "Neil",
+        "name": "Pub Top Trumps",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Before the game, contestants need to write down 5 names of pubs that they think will be commonly used across the UK. Each round the contestants choose one of their 5 pubs to play with. The contestant whose pub name is the most popular for that round wins the round. There are five rounds, the person with the most points at the end wins."
+    },
+    {
+        "mugID": 159,
+        "platform": "BBC",
+        "episode": 102,
+        "creator": "Matt",
+        "name": "Guess The Sea Temperature",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster picks a coastal city. Contestants then take it in turns to guess the current temperature of the sea that neighbours that city. Each round you'll get however many points you are away from the correct answer. The person with the fewest points at the end wins."
+    },
+    {
+        "mugID": 160,
+        "platform": "BBC",
+        "episode": 103,
+        "creator": "Reese",
+        "name": "Guess The Synonym",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Thesaurus",
+                "link": "https://thesaurus.com"
+            }
+        ],
+        "rules": "A quizmaster picks a word. For example, the word \"dark\". The contestant in play will then try to name as many synonyms as they can for that word within 20 seconds. Using Thesaurus.com the quizmaster will see how many synonyms were correctly guessed. But there's a little twist to proceedings - at Thesaurus.com the list of synonyms for each word is broken into \"primary\" synonyms, the obvious more basic ones, and \"secondary\" synonyms, the fancier more obscure ones. For every primary they get right they get one point, for every secondary they get right they get two points. There are two words for each player, the player with the most points at the end wins."
+    },
+    {
+        "mugID": 161,
+        "platform": "BBC",
+        "episode": 104,
+        "creator": "Joe",
+        "name": "Is The Tax Man Coming To Get You",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster creates three scenarios about tax. For each one, players have to state whether they think the tax man is coming to get you, or whether the tax man isn't coming to get you."
+    },
+    {
+        "mugID": 162,
+        "platform": "BBC",
+        "episode": 105,
+        "creator": "Carl",
+        "name": "Wake Up Sheeple And Smell The Beef",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster will name a country. The chosen contestant will then have to correctly rank the three categories - sheep, people, cattle - in the correct order, thus offering up a maximum of three points for each round. There are three rounds each and the person with the most points at the end wins."
+    },
+    {
+        "mugID": 163,
+        "platform": "BBC",
+        "episode": 106,
+        "creator": "Dave",
+        "name": "Do You Know Number Two?",
+        "players": "2",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster picks four categories numbered 1 to 4. Players take it in turns to pick one of the numbered rounds. The number they choose will correspond to a category. With the chosen category, they have to name the second item on that list. If they get that correct they get one point, but here's the twist - if they correctly name the second item on the list they get the chance to name the third item on the list. If they correctly guess this they get a further two bonus points, however if they guess incorrectly they lose all the points for that round. Steals are in play, two rounds each, the person with the most points at the end wins."
+    },
+    {
+        "mugID": 164,
+        "platform": "BBC",
+        "episode": 107,
+        "creator": "Sam",
+        "name": "Bittersweet Synonymphony",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster chooses a song, but will replace all the words from the original title with synonyms and other creative descriptions. It's up to players to correctly name the artist and title. There are six rounds, one point for each correct answer, the player with the most points at the end wins."
+    },
+    {
+        "mugID": 165,
+        "platform": "BBC",
+        "episode": 108,
+        "creator": "Sam",
+        "name": "Country Busters",
+        "players": "2",
+        "quizmaster": true,
+        "props": false,
+        "rules": "Players take it in turns to choose a country at random by picking a number between 1 and 4. After finding out their assigned start country, the player will then have to name a country that borders it, and so on until the streak is broken with an incorrect answer. For every country the player correctly names it's one point. If they incorrectly guess a country, the other player has a chance to steal 1 bonus point by correctly naming one more country that borders the last named country. There are two rounds each, the player with the most points at the end wins."
+    },
+    {
+        "mugID": 166,
+        "platform": "BBC",
+        "episode": 109,
+        "creator": "Sophie",
+        "name": "Is it a Firework or is it a Cheese?",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster will compile a list of firework and cheese names. From this list, players need to tell what is a firework and what is a type of cheese. There are 5 rounds each, the most points at the end of the game wins."
+    },
+    {
+        "mugID": 167,
+        "platform": "BBC",
+        "episode": 111,
+        "creator": "Will and Amy",
+        "name": "Which Is More North?",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster will give you two locations - landmarks, places of interest, etc. Players just have to correctly guess which one is the furtherest north on the coordinates. However, there's a twist. There's two categories to choose from. If you choose home, your two locations will be located within the UK. Home gets you 1 point. If you choose away, your locations will be international. Away gets you 2 points. There are three rounds each, the player with the most points at the end wins."
+    },
+    {
+        "mugID": 168,
+        "platform": "BBC",
+        "episode": 113,
+        "creator": "Nick",
+        "name": "If The Cap Fits",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Venue Capacities",
+                "link": "https://en.wikipedia.org/wiki/List_of_venues_in_the_United_Kingdom"
+            }
+        ],
+        "rules": "A quizmaster will choose a number. It's then up to players to choose a venue which they think has the closest capacity to the number the quizmaster stated. The player whose venue is closest to the number wins the point. For each round, advantage will alternate between players meaning that if they happen to choose the same venue the contestant(s) without advantage will have to choose another venue."
+    },
+    {
+        "mugID": 169,
+        "platform": "BBC",
+        "episode": 115,
+        "creator": "Harry",
+        "name": "Place or Face",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Census Records",
+                "link": "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/census-records/"
+            }
+        ],
+        "rules": "A quizmaster will give each player two names each. They have to work out which was a place, i.e. a location in the UK, or a face, i.e. the name of a person recorded in either the 1901 or 1911 census. There are three rounds each, the player with the most points at the end wins."
+    },
+    {
+        "mugID": 170,
+        "platform": "BBC",
+        "episode": 117,
+        "creator": "Aaron",
+        "name": "Flag Wars",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster will name a colour. Contestants will have 15 seconds to name as many flags as they can that feature that colour. They get 1 point for every correct nation mentioned, but if they name one that doesn't feature that colour they lose a point. Two rounds each, the person with the most points at the end wins."
+    },
+    {
+        "mugID": 171,
+        "platform": "BBC",
+        "episode": 118,
+        "creator": "Adam",
+        "name": "Tickets Please!",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Station Usage",
+                "link": "https://dataportal.orr.gov.uk/statistics/usage/estimates-of-station-usage"
+            }
+        ],
+        "rules": "A quizmaster will pick a train station in the UK. Contestants must then guess how many people travelled to and from that station in the latest estimates of station usage compiled by the Office of Rail and Road. The person that is closest to the correct answer wins the point. There are five rounds in total and the person with the most points at the end wins."
+    },
+    {
+        "mugID": 172,
+        "platform": "BBC",
+        "episode": 119,
+        "creator": "Ben",
+        "name": "Step Into Quizmas",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster will name two classic Christmas songs. Contestants have to guess which of the two songs contain the most occurances of the word \"Christmas\". There are three rounds each, the player with the most points at the end wins."
+    },
+    {
+        "mugID": 173,
+        "platform": "BBC",
+        "episode": 120,
+        "creator": "Rob",
+        "name": "Stop The Calorie",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "BBC Good Food",
+                "link": "https://www.bbcgoodfood.com/recipes/category/all-christmas"
+            }
+        ],
+        "rules": "A quizmaster will choose five Christmas dinner staples from the BBC Good Food website. Contestants will take it in turns to guess how many calories there are per serving of that dish. The person closest to the answer for each round wins the point. There are five rounds in total, the player with the most points at the end of the game wins."
+    },
+    {
+        "mugID": 174,
+        "platform": "BBC",
+        "episode": 122,
+        "creator": "Matt",
+        "name": "£350,000 For a 2-bed Flat? You're Joking Aren't Yeh?",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Rightmove",
+                "link": "https://www.rightmove.co.uk"
+            }
+        ],
+        "rules": "A quizmaster will go to a generic property search website and pick five locations in the UK. Contestants will then have to guess how much they think the average house price is in that area. The person closest to the correct price wins the point, best of five rounds."
+    },
+    {
+        "mugID": 175,
+        "platform": "BBC",
+        "episode": 125,
+        "creator": "Ian",
+        "name": "Crowd Mentotality",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "In advance of the game, a quizmaster should canvas the opinion of as many family and friends as possible as to the amount meant by certain non-specific words - e.g. how much is a \"throng\"? These should then be used to calculate a mean average for each word - the crowd mentotal - to the nearest whole number. Contestants must guess how many people on average each word represented from the sample. Nearest guess wins, best of five."
+    },
+    {
+        "mugID": 176,
+        "platform": "BBC",
+        "episode": 127,
+        "creator": "Lorna",
+        "name": "Bond or Bublé",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Spotify",
+                "link": "https://www.spotify.com"
+            }
+        ],
+        "rules": "A quizmaster will play the intro music to a song. Contestants have to decide whether it's the intro to a James Bond theme, or a Michael Bublé track. There are three rounds each, the player with the most points at the end wins."
+    },
+    {
+        "mugID": 177,
+        "platform": "BBC",
+        "episode": 129,
+        "creator": "Stuart",
+        "name": "Pits of the Pops",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Official Charts",
+                "link": "https://www.officialcharts.com/charts/singles-chart/"
+            }
+        ],
+        "rules": "Contestants are given a band. They then have to name a single that they think charted poorly in the UK top 100, according to the official UK Chart Company. The lower the chart position, the higher the number of points. For example, the Beatles song \"Ain't She Sweet\" only charted at number 29, giving you 29 points. The winner is the person with the cumulative highest score after three rounds. All answers are taken from the official charts website, if a track has ever been re-released then the highest charting release will be counted. If you don't know any or you go for a track that is outside the top 100 you get 0 points."
+    },
+    {
+        "mugID": 178,
+        "platform": "BBC",
+        "episode": 131,
+        "creator": "Ellie",
+        "name": "Things in Things",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "This game easily boils down to how many things are in other things - e.g. how many slices in a standard slice of bread. Best of 5 rounds, the nearest guess in each round gets a point."
+    },
+    {
+        "mugID": 179,
+        "platform": "BBC",
+        "episode": 133,
+        "creator": "Matt",
+        "name": "Scores on the Pause",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "This game is based on the premise that when listening to the classified football results on the iconic Sports Report, you can guess the amount of goals the away team have scored based on the broadcaster's intonation when reading out the home team's name and score. A quizmaster will play Charlotte Green reading the home team score. The contestants have to guess the subsequent away team's goal haul just on her tone of voice. 3 points for the correct score, 1 point if you get the score wrong but still guess the correct outcome. Three rounds each."
+    },
+    {
+        "mugID": 180,
+        "platform": "BBC",
+        "episode": 135,
+        "creator": "Matt",
+        "name": "For the Record",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "World Records",
+                "link": "https://www.worldrecordacademy.com/wra/world_records_90410.html/"
+            }
+        ],
+        "rules": "A quizmaster selects a world record (from the Guinness Book of World Records), stating whether they are looking for the answer in minutes, metres etc. Contestants then have to guess the record. Best of 5 rounds."
+    },
+    {
+        "mugID": 181,
+        "platform": "BBC",
+        "episode": 137,
+        "creator": "Theo",
+        "name": "Back of the Net Worth",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "links": [
+            {
+                "name": "Celebrity Net Worths",
+                "link": "https://www.celebritynetworth.com"
+            }
+        ],
+        "rules": "The game is simple - can you guess the net worth of various bigwigs and midwigs. Closest guess to each mover and shaker gets a point, best of five."
+    },
+    {
+        "mugID": 182,
+        "platform": "BBC",
+        "episode": 139,
+        "creator": "Em",
+        "name": "Fame Maths",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster takes three living celebrities ages and puts them into a maths equation to give an overall number e.g. \"Taylor Swift + Neil Diamond + Justin Fletcher\". Contestants need to work out what this number is. Closest answer wins."
+    },
+    {
+        "mugID": 183,
+        "platform": "BBC",
+        "episode": 141,
+        "creator": "Dan",
+        "name": "Now That's What I Call a Game",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "The game involves trying to guess the edition of the uber-popular Now That's What I Call Music compilation albums. A quizmaster will play a Now That's What I Call Music TV ad from years gone by. From the musical hooks that are heard, contestants have to guess the number of the compilation that it was. Two points are awarded to the contestant closest to the correct number. There is a bonus point if they can guess the year it was released."
+    },
+    {
+        "mugID": 184,
+        "platform": "BBC",
+        "episode": 143,
+        "creator": "Katie",
+        "name": "Insane in the Domain",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Contestants need to guess the country or territory from the domain extension - e.g. .co.uk = the UK. 3 rounds each, 2 points for a correct answer, 1 point for a steal if the original contestant gets it wrong."
+    },
+    {
+        "mugID": 185,
+        "platform": "BBC",
+        "episode": 145,
+        "creator": "Steve",
+        "name": "Census Sensibility",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster asks a question based on a past census. Contestants have to guess the correct answer. Nearest to the pin wins, best of five."
+    },
+    {
+        "mugID": 186,
+        "platform": "BBC",
+        "episode": 147,
+        "creator": "Sal",
+        "name": "Beat the Supermarket",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "On supermarket online shopping apps the app provides suggestions when you start typing in the search bar. The game is to guess the results for a single letter of the alphabet, with a Family Fortunes twist whereby you get 5 points for the top result, 4 points for the second result, and so on down to 1 point for the fifth result. 5 rounds, most points at the end wins."
+    },
+    {
+        "mugID": 187,
+        "platform": "BBC",
+        "episode": 151,
+        "creator": "Henryk",
+        "name": "Boy, Girl, Animal, Town, Country",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster will select a letter. Within a 10 second time limit, contestants must reel off a boy's name, a girl's name, an animal, a town/city, and a country starting with that letter. They must be in that order. If you are able to make it through all five categories before the time is up, you can then go back to the start with different answers to accrue more points, but the order must remain the same. 1 point for each named thing, 3 rounds each."
+    },
+    {
+        "mugID": 188,
+        "platform": "BBC",
+        "episode": 152,
+        "creator": "Andrew",
+        "name": "Take the Train or Walk",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Celebrity Net Worths",
+                "link": "https://www.thetrainline.com"
+            }
+        ],
+        "rules": "Contestants are given the time it takes to do a certain journey by train. Times are taken from trainline.com for the next direct train to depart when you play the game. They then have to estimate how long the same journey would take walking. The nearest answer to the correct time wins the point."
+    },
+    {
+        "mugID": 189,
+        "platform": "BBC",
+        "episode": 153,
+        "creator": "Hannah",
+        "name": "Blow Your Own Way",
+        "players": "2+",
+        "quizmaster": true,
+        "props": true,
+        "rules": "A quizmaster has 5 milk bottles, with each one containing a different amount of water. The contestant's job is to guess the volume of water in each bottle based on the note produced when the quizmaster blows over it. All answers to be given in millilitres, nearest to the pin wins, best of 5."
+    },
+    {
+        "mugID": 190,
+        "platform": "BBC",
+        "episode": 154,
+        "creator": "Jack",
+        "name": "Suffix Up, Look Sharp",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster takes a suffix, e.g. -itis, and then each contestant has 15 seconds to name as many words with that suffix as they can. Three rounds each, the contestant who gets the most words correct wins."
+    },
+    {
+        "mugID": 191,
+        "platform": "BBC",
+        "episode": 155,
+        "creator": "Sharon",
+        "name": "Trees Per Me",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Contestants are given a country to guess the 'trees per me' - the number of trees per person in each country. The nearest wins, five rounds."
+    },
+    {
+        "mugID": 192,
+        "platform": "BBC",
+        "episode": 156,
+        "creator": "Stephen",
+        "name": "Untitled",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "Contestants are to guess how many of a given fast or fast-casual dining outlets there are in different cities. All contestants are in play for each round, nearest to the pin wins. Best of 5 rounds."
+    },
+    {
+        "mugID": 193,
+        "platform": "BBC",
+        "episode": 157,
+        "creator": "Richard",
+        "name": "Close Ranks",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster picks a) a country and b) a category. Contestants then have to guess the country's rank in that category. For example, the quizmaster might say country UK, category land area. The further away an answer is from the correct rank is how many points the contestant gets. The lowest points after five rounds wins."
+    },
+    {
+        "mugID": 194,
+        "platform": "BBC",
+        "episode": 158,
+        "creator": "Ben",
+        "name": "Second Citeh",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster gives contestants a country. It's their job to try to name the second biggest city by population. 3 rounds each, and there is a bonus point if they can estimate the population of that city to within 10% either side."
+    },
+    {
+        "mugID": 195,
+        "platform": "BBC",
+        "episode": 159,
+        "creator": "James",
+        "name": "Mind The Gap",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "In each round, a quizmaster presents the contestants with two things (e.g. the height of the Angel of the North in metres and the wingspan of the Angel of the North in metres). The contestants then need to work out the difference, or 'mind the gap' between the two things. The player who scores closest to the correct answer in each round scores 1 point. But there are two points up for grabs if any contestant can guess the gap bang on. The player with most points at the end wins."
+    },
+    {
+        "mugID": 196,
+        "platform": "BBC",
+        "episode": 160,
+        "creator": "James",
+        "name": "Endless Europe",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Players take it in turns to give the names of European countries that fulfil a certain criteria. They gain a point for every country they name. If they can't name a country when it's their turn, they're out. The round ends when all players are out. The winner is the player with most points after three rounds."
+    },
+    {
+        "mugID": 197,
+        "platform": "BBC",
+        "episode": 162,
+        "creator": "Ross",
+        "name": "One Eurovision",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "In each round, players are presented with two songs and two current Euro's squad members from the same nation. The aim of the game is to identify the nation being represented as early as possible. Firstly there is an obscure Eurovision entry played by the quizmaster. If the country is guessed correctly at that stage by any of the contestants, it's 5 points. If not identified, a lesser known European footballer will be named. If correctly guessed here, it's 3 points. For 2 points there is a slightly more familiar song, and finally there is quite obvious footballer for 1 point. If someone makes an incorrect guess they are out of the round, but the remaining players will continue."
+    },
+    {
+        "mugID": 198,
+        "platform": "BBC",
+        "episode": 163,
+        "creator": "Joanna",
+        "name": "How Great Is Britain?",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster puts together a quiz about the UK's rankings in some irreverent, varied, global metrics (e.g. how much dry tea does each person consume on average per year). All contestants are in play, closest to the pin gets the point. Most points at the end wins."
+    },
+    {
+        "mugID": 199,
+        "platform": "BBC",
+        "episode": 164,
+        "creator": "John",
+        "name": "Expat Shootout",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Contestants need to guess the number of certain nationalities living in a location. Nearest to the pin wins the point, best out of five."
+    },
+    {
+        "mugID": 200,
+        "platform": "BBC",
+        "episode": 165,
+        "creator": "Donna",
+        "name": "Four Euro's for a Toasteh?",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster gives the name of a country, the contestant in play has to name the currency which the Euro replaced. There is then a bonus round open to all, where all players guess how much 4 Euros (i.e. one toasteh) was worth in the old currency at the time of the changeover. The player closest to the correct answer gets the bonus point for that round. There are two rounds per player, and they can choose to go 'home' (easy) or 'away' (harder). Home questions are worth one point, away questions are worth two."
+    },
+    {
+        "mugID": 201,
+        "platform": "BBC",
+        "episode": 166,
+        "creator": "Ian",
+        "name": "Untitled",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster reads out a famous quote from someone involved in football. Contestants need to guess who originally said those words. Everyone is in play, but if a contestant gets it wrong with a quick buzz-in they are frozen out of that round. There is also a bonus point for each round where contestants can try to guess the year of the quote as well."
+    },
+    {
+        "mugID": 202,
+        "platform": "BBC",
+        "episode": 167,
+        "creator": "Stuart",
+        "name": "The Game's in the Balance",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "Imagine a giant set of scales. On one side is a well-known sportsperson, on the other side is a certain number of Olympic sporting items. Contestants must decide how many of each sporting item you need in order for the scales to perfectly balance with the weight of the Olympian. There are 5 rounds, and the contestant nearest to the correct amount wins that round."
+    },
+    {
+        "mugID": 203,
+        "platform": "BBC",
+        "episode": 168,
+        "creator": "Max",
+        "name": "Alphabetic Numeric",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster will pick a letter. Contestants will then have 20 seconds to list as many words as possible starting with that letter, but there's a delicious twist. Each word must be one letter longer than the previous one, starting off with a two letter one. Contestants can't deploy a plural of a word they've already used. Points are awarded for each word listed."
+    },
+    {
+        "mugID": 204,
+        "platform": "BBC",
+        "episode": 169,
+        "creator": "Adam",
+        "name": "The Acronympics",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster offers an acronym for a sporting association. Contestants have to decide how many words from that acronym they think they can guess correctly. For each word they guess correctly they score a point, but if one of their words is incorrect they will score zero for that round. Whoever makes the riskier guess goes first for that round."
+    },
+    {
+        "mugID": 205,
+        "platform": "BBC",
+        "episode": 170,
+        "creator": "Edward",
+        "name": "Mastermanily Fortunes",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "Contestants are asked to guess what the top answers are to a survey. The twist is that the top answers are entirely composed of Producer Dave's (or the quizmaster's) personal preferences or favourites from different categories. The higher the rank of the contestant's guess, the more points they get. If they give an incorrect answer they get zero points."
+    },
+    {
+        "mugID": 206,
+        "platform": "BBC",
+        "episode": 171,
+        "creator": "Rebecca",
+        "name": "We Didn't Start the Fire",
+        "players": "2",
+        "quizmaster": true,
+        "props": false,
+        "rules": "Contestants are played a verse of Billy Joel's \"We Didn't Start the Fire\". They then have to recall as many of the people and moments that he recites from that verse. There is a point for each one that they can remember, two verses each."
+    },
+    {
+        "mugID": 207,
+        "platform": "BBC",
+        "episode": 172,
+        "creator": "Katie",
+        "name": "Horse or Plate?",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "Every single person's face can be identified as loosely resembling a horse or a plate. Contestants have to decide whether various celebrities' faces are more horse or more plate. It's up to the quizmaster's judgement if you're correct or not. Contestants get 5 celebrities each, a point is given for each correct answer. On very rare occasions you may find a person who is a genuine mix. This person can be described as 'a picture of a horse on a plate'. If a contestant correctly guesses 'a picture of a horse on a plate' they get two points."
+    },
+    {
+        "mugID": 208,
+        "platform": "BBC",
+        "episode": 173,
+        "creator": "Rosa",
+        "name": "The Grape Game",
+        "players": "2",
+        "quizmaster": true,
+        "props": true,
+        "rules": "There are three rounds. Round one is called 'Taste the grapes' - each contestant is allocated a grape, green or red. Pop the grape in your mouth and guess whether you're eating a green or red grape. They get 5 points for a correct answer. Round two is called 'Feel the grapes'. Contestants are allocated a bunch of grapes. From feel alone they have to guess how many grapes are in the bunch. The further away from the actual amount, the more points they lose. Round three is 'Guess the grape'. Contestants are given a single grape. Behind their back, they need to put a grape in one of their hands and convince the other contestant which hand the grape is in. 5 points to the other contestant if they guess correctly, 5 points to the holder if they manage to deceive them."
+    },
+    {
+        "mugID": 209,
+        "platform": "BBC",
+        "episode": 174,
+        "creator": "Olly",
+        "name": "Can I be Frank?",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "The aim of the game is to guess the name of a famous Frank based on the things they've said. A quizmaster will read out quotes, lyrics, and lines made by famous Franks or Frankies from the world of music, sport, entertainment, fiction. Contestants simply have to identify the Frank. The quizmaster will read out three quotes from a particular Frank, with the quotes getting easier from 1 to 3. All contestants are in play and can buzz in at any time if they think they can name the Frank. To buzz in, contestants must say 'Can I be Frank?' followed by their own surname. If they get it correct after only one quote they get three points. After two they get two points and after one they get one point. If they buzz in and get it wrong they are Frozen Franked."
+    },
+    {
+        "mugID": 210,
+        "platform": "BBC",
+        "episode": 175,
+        "creator": "Adrian",
+        "name": "Untitled",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "Contestants must decide the industry which certain celebrities were involved in before they became famous. Each celeb fits in to one of four categories: metalhead (worked in metal); bright sparks (worked in or operating electronics); legal eagles (practicing law); and medics (anyone involved in healthcare). There are levels to add a bit of spice. Bronze is 1 point, for famous people that often mention what they've done before. Silver is 2 points, where the information is freely available but not mentioned as much. Gold is 3 points, for celebrities where the information takes a bit of digging to find out what their previous profession was."
+    },
+    {
+        "mugID": 211,
+        "platform": "BBC",
+        "episode": 176,
+        "creator": "Laurie",
+        "name": "Two, Four, Six, Eight, Ten Motorway",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster will read out a list of towns and villages situated in order along a motorway or A road. Contestants must buzz in when they think they know the answer. The more locations that are read out along the motorway or A road, the more points they accrue. The points system is 0, 2, 4, 6, 8. If a contestant buzzes in and gets it wrong, or if they don't buzz in at all, they get the full 10 points. The player with the fewest points at the end of five rounds is the winner."
+    },
+    {
+        "mugID": 212,
+        "platform": "BBC",
+        "episode": 177,
+        "creator": "Dan",
+        "name": "Randomiser",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Contestants need to list ten random words in a row. Rule 1: they need to be ten unrelated nouns. Rule 2: the player's words cannot rhyme. Rule 3: they cannot name things that they can see. They have 15 seconds each, if they break a rule their score for that round stops at the last legitimate word. Best of three rounds, scores accumulative across the rounds."
+    },
+    {
+        "mugID": 213,
+        "platform": "BBC",
+        "episode": 178,
+        "creator": "Matt",
+        "name": "The Likely Lads",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster compiles a list of \"who's most likely\" questions where the contestants are the answers, and asks other friends or colleagues to answer the questions. Contestants need to predict who was thought to be \"most likely\" in certain situations. They need to write down their answers along with the percentage they believe the top answer got. They get a point for guessing correctly and a bonus point for getting within 5% of the result."
+    },
+    {
+        "mugID": 214,
+        "platform": "BBC",
+        "episode": 179,
+        "creator": "Susie",
+        "name": "Theme-afest",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster will give contestants a theme for a festival. Contestants will have 30 seconds to name as many acts (musicians, comedians, authors etc) who would be at that festival as possible. Two rounds each, one point for every act or name, and the quizmaster will give four points at the end for the festival which they would most like to attend."
+    },
+    {
+        "mugID": 215,
+        "platform": "BBC",
+        "episode": 180,
+        "creator": "Karen",
+        "name": "Made Pup Game",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster will play a clip of a dog barking. Contestants must guess whether it's a small, medium, or massive dog. If they guess correctly they get one point, and then they can get an extra bonus point if they guess what breed of dog it is from a multiple choice."
+    },
+    {
+        "mugID": 216,
+        "platform": "BBC",
+        "episode": 181,
+        "creator": "Kev",
+        "name": "Going the Distance",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Free Map Tools",
+                "link": "https://www.freemaptools.com/"
+            }
+        ],
+        "rules": "A quizmaster gives contestants a location and then a distance. They then have to name a town or city which, in a straight line, is as close to that distance from the original location as possible. All contestants are in play, closest to the mark wins the round. Some rounds are 'home', which means the locations are in the UK, and some are \"away\", which means they are not. 1 point for winning the round if it's a 'home' round, 2 points if it's an 'away' round. 5 rounds in total."
+    },
+    {
+        "mugID": 217,
+        "platform": "BBC",
+        "episode": 182,
+        "creator": "Chris",
+        "name": "Trip Badvisor",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Tripadvisor",
+                "link": "https://www.tripadvisor.co.uk/"
+            }
+        ],
+        "rules": "Contestants hear a genuine one star review found online. They need to guess which famous tourist hotspot the review is for. Five rounds in total, one point available for each round. If multiple contestants guess correctly, there will be an additional 'closest to the pin' question for each round to decide who wins that point, based on annual visits to the landmark in question."
+    },
+    {
+        "mugID": 218,
+        "platform": "BBC",
+        "episode": 183,
+        "creator": "Tash",
+        "name": "Foodbenders",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster will give contestants pop culture celebrity names and they must decide what foodstuff they would be. The quizmaster will award a point to the contestant with the best answer."
+    },
+    {
+        "mugID": 219,
+        "platform": "BBC",
+        "episode": 184,
+        "creator": "Anonymous",
+        "name": "Fundrum, not Humdrum",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "Contestants will hear a clip of a famous drum fill or drum beat. They then have to replicate what they hear to the best of their ability."
+    },
+    {
+        "mugID": 220,
+        "platform": "BBC",
+        "episode": 185,
+        "creator": "Michael",
+        "name": "Past Price Problems",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster will read out a scenario where someone is buying certain items in a given year. Contestants need to figure out how much the cost of all the items in each round add up to. Nearest to the pin wins the point in each round."
+    },
+    {
+        "mugID": 221,
+        "platform": "BBC",
+        "episode": 186,
+        "creator": "Jason, Nick, Fred, Bea, Issy and Hanna",
+        "name": "A Fair Fare Affair",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster will pick any two points in the world and ask a fairly ubiquitous taxi app for a quote. Nearest to the actual price wins and it's best of five. All prices are for regular taxis and currencies will change depending on the journey."
+    },
+    {
+        "mugID": 222,
+        "platform": "BBC",
+        "episode": 187,
+        "creator": "Suresh",
+        "name": "New Word Order",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster will list four things from a specific category. Contestants must put said things in the order that the quizmaster requests. The quicker they can nail the right order the better, because until they correctly name the right order the clock will keep ticking. There are three rounds each, and the shortest total time across those three rounds wins."
+    },
+    {
+        "mugID": 223,
+        "platform": "BBC",
+        "episode": 188,
+        "creator": "Frazer",
+        "name": "Dragon's Dave",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "Contestants will be given 25 seconds to pitch their business idea to a quizmaster - product or company. The quizmaster has a pot of money of £1 million pounds. They will decide at the end of each pitch how much money from their pot they want to invest. The overall winner is the entrepreneur who has secured the most investment at the end of the game. Contestants have two pitches each, and the quizmaster cannot give away more than their £1 million pounds across the whole game."
+    },
+    {
+        "mugID": 224,
+        "platform": "BBC",
+        "episode": 189,
+        "creator": "Ben",
+        "name": "All I Want for Quizmas is You",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "Contestants take it in turns to pick a random number between 1 and 50. Behind each of those numbers lies a toy from a year between 1960 and 2010. All contestants then have to guess which year the toy was the most popular Christmas toy. For each year they are out a point is added to their total. The winner is the player with the fewest accumulated points in total. If they get the year bang on, 5 points is taken away from their score."
+    },
+    {
+        "mugID": 225,
+        "platform": "BBC",
+        "episode": 190,
+        "creator": "Jenny",
+        "name": "Merry Cashmas",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster will give contestants a famous Christmas song and they have to guess how much these songs earn in royalties every year. Closest to the pin, five rounds in total."
+    },
+    {
+        "mugID": 226,
+        "platform": "BBC",
+        "episode": 193,
+        "creator": "Jess",
+        "name": "Desert Island Risks",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster will play a clue-ridden clip of the host introducing a guest when they appear on Desert Island Discs. Contestants must buzz in when they think they know who it is that they are describing and introducing. It's fastest finger first - however, if a contestant is wrong they are frozen out of the round."
+    },
+    {
+        "mugID": 227,
+        "platform": "BBC",
+        "episode": 194,
+        "creator": "Lucas",
+        "name": "World Wide Vibes",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster will ask friends or colleagues on a scale of 0 to 10 what they think of various things. 0 being the worst thing ever and 10 being the best. The quizmaster will then take the mean average of the scores to find out the overall vibe for that item. Contestants have to guess what the average score for that thing was to the nearest 1 decimal place. Scores are accumulative - the further away from the answer the more points they accrue. The winner is the person with the lowest points across all rounds."
+    },
+    {
+        "mugID": 228,
+        "platform": "BBC",
+        "episode": 195,
+        "creator": "Kit",
+        "name": "Endgame",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster will select a song from the contestant's wheelhouse and play a short, medium, and long clip of the end of the song. They hear the short clip first, if they can guess the song from that clip they get 5 points. If they can guess from the medium clip it's 3 points, and if they guess from the long clip it's 1 point. Three rounds each, the highest score at the end wins."
+    },
+    {
+        "mugID": 229,
+        "platform": "BBC",
+        "episode": 196,
+        "creator": "Alex",
+        "name": "It's a Mug's Game",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "Contestants need to guess how much a mug (300ml) of something is worth. All contestants are in play and the closest to the answer gets the point. If they get it bang on, they get three points."
+    },
+    {
+        "mugID": 230,
+        "platform": "BBC",
+        "episode": 197,
+        "creator": "Ellen",
+        "name": "Evil E",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "For each round a quizmaster will pick a category. Contestants will have 20 seconds to say as many things in that category that don't contain an 'e'. 1 point for every valid word said. If they say a word that contains an 'e', or even if they start to say a word that the quizmaster thinks was about to have an 'e' in it, they lose 2 points."
+    },
+    {
+        "mugID": 231,
+        "platform": "BBC",
+        "episode": 198,
+        "creator": "Phil",
+        "name": "Evil E",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "Contestants have 60 seconds each to guess as many words as possible based on a definition read out by a quizmaster. They get a point for each word they guess correctly, and they are allowed three passes within their 60 seconds."
+    },
+    {
+        "mugID": 232,
+        "platform": "BBC",
+        "episode": 199,
+        "creator": "Neil",
+        "name": "Try a Pie at Home",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster will name a pie and give a cryptic pie clue. Contestants need to pick a town or city that they think is the closest to where that pie originated. Closest to the right answer wins the point. If their town or city is in the right county they get a bonus point as well. Easy as pie."
+    },
+    {
+        "mugID": 233,
+        "platform": "BBC",
+        "episode": 200,
+        "creator": "John Robins",
+        "name": "Untitled",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Based on UK prices, the most expensive shampoo in the UK is called Philip B Russian Amber Imperial Shampoo. Contestants must guess the price of 350ml."
+    },
+    {
+        "mugID": 234,
+        "platform": "BBC",
+        "episode": 201,
+        "creator": "Carl",
+        "name": "Lullabies",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "A quizmaster will play a 20 second clip of a lullaby version of a popular song. Contestants must guess what the song is. All players are in play in each round, the first person to guess the song correctly wins the point. Best of five rounds."
+    },
+    {
+        "mugID": 235,
+        "platform": "BBC",
+        "episode": 202,
+        "creator": "Bob",
+        "name": "Muscle Memory",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "Contestants will be challenged to identify exactly where some of the more obscure of the 640 muscles in the human body are, on their own bodies. The nearest to the exact anatomical position of the muscle wins."
+    },
+    {
+        "mugID": 236,
+        "platform": "BBC",
+        "episode": 203,
+        "creator": "John Robins",
+        "name": "When Did John's Medicines Go Off?",
+        "players": "2+",
+        "quizmaster": true,
+        "props": true,
+        "rules": "The quizmaster will give the contestants 5 medicines that they have in their home. They must give the month and year that they went off, and whether the quizmaster still uses them."
+    },
+    {
+        "mugID": 237,
+        "platform": "BBC",
+        "episode": 204,
+        "creator": "Paula",
+        "name": "Place That Accent",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "British Accents",
+                "link": "https://www.bl.uk/british-accents-and-dialects/collection-items/"
+            }
+        ],
+        "rules": "A quizmaster will play 5 clips of different accents from all over the UK. Contestants will have to write down the town where they think the given accent is from. They get a point for every mile they are away from the correct answer. Lowest score at the end of the game wins. Distances are calculated as the crow flies."
+    },
+    {
+        "mugID": 238,
+        "platform": "BBC",
+        "episode": 205,
+        "creator": "Joe",
+        "name": "What Book You So Long?",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Audible",
+                "link": "https://www.audible.co.uk/"
+            }
+        ],
+        "rules": "A quizmaster will name an audio book. Contestants must write down how long they think said audio book is in hours and minutes. Closest to the answer gets the point, and it's best of 5."
+    },
+    {
+        "mugID": 239,
+        "platform": "BBC",
+        "episode": 206,
+        "creator": "Mike",
+        "name": "H2OHHHHH!",
+        "players": "2+",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Contestants have to guess the water content of various things, given as a percentage. All contestants are in each round. Points are accumulated by calculating how far each estimate is away from the answer. Lowest points at the end of the 5 rounds wins the game."
+    },
+    {
+        "mugID": 240,
+        "platform": "BBC",
+        "episode": 207,
+        "creator": "Alex and Otis",
+        "name": "Alphabet Aerobics",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Dictionary",
+                "link": "https://www.dictionary.com/"
+            }
+        ],
+        "rules": "A quizmaster chooses a letter of the alphabet and a number between 3 and 5. The first contestant then has 20 seconds to list as many words that begin with that letter and are of that length. No proper names, no plurals, and only one of each word stem per round - e.g. you could have drive but you couldn't have drove as well. 1 point per word, 3 rounds each."
+    },
+    {
+        "mugID": 241,
+        "platform": "BBC",
+        "episode": 208,
+        "creator": "Ralph",
+        "name": "The Price is Rice",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Transfer Markt",
+                "link": "https://www.transfermarkt.co.uk/"
+            }
+        ],
+        "rules": "A quizmaster will read out the name of a footballer and then a product with a similar name to the footballer. Each contestant has to guess how many of that product you could get your hands on for the cost of the player. The value of each player has been taken from transfermarkt.co.uk and their estimate is based on the player's ability, age, position, time remaining on their contract and a whole load of other variables."
+    },
+    {
+        "mugID": 242,
+        "platform": "BBC",
+        "episode": 209,
+        "creator": "Elliot",
+        "name": "Letters Know Your Answer",
+        "players": "2",
+        "quizmaster": false,
+        "props": false,
+        "rules": "Contestants have to try and guess how many distinct letters of the alphabet are in a given phrase. For example, 'Manchester City' would have 11 distinct letters. All contestants are in play for each round. They need to buzz in as soon as they have their answer. If they guess incorrectly they are frozen out of the game but the contestant left in will then only have a further 15 seconds to make their guess."
+    },
+    {
+        "mugID": 243,
+        "platform": "BBC",
+        "episode": 210,
+        "creator": "Carl",
+        "name": "Whose Time is it Anyway?",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "World Clock",
+                "link": "https://www.timeanddate.com/worldclock/"
+            }
+        ],
+        "rules": "A quizmaster will give you a time. Contestants then have 30 seconds to give 5 cities that they think are as close to or bang on that time zone as possible. For example, when playing at 3.15pm local time the quizmaster could say 8.15am. The contestant in play would then have to list 5 cities that are near to at least 7 hours behind your time. The further away their cities are from the featured timezone, the more points they accrue. So if one of the guesses is 5 hours away, they would gain 5 points. 2 rounds each, the lowest culmative score at the end of the game wins."
+    },
+    {
+        "mugID": 244,
+        "platform": "BBC",
+        "episode": 211,
+        "creator": "Luke",
+        "name": "A Field in Britain",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "ONS",
+                "link": "https://www.nomisweb.co.uk/datasets/aps168/reports/employment-by-occupation?compare=K02000001/"
+            }
+        ],
+        "rules": "Contestants will be given a profession. All they have to do is guess how many people there are working in that job - doctors, builders, etc. All data comes from the Office for National Statistics. The number given includes employed, self-employed, full-time and part-time staff, and all answers are rounded to the nearest thousand. How far off you are is equal to the number of points you get, and your score for each round is added up to give the final score at the end of the game. Lowest score wins."
+    },
+    {
+        "mugID": 245,
+        "platform": "BBC",
+        "episode": 212,
+        "creator": "Becs",
+        "name": "Trends it Like Beckham",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Google Trends",
+                "link": "https://trends.google.com/trends/?geo=GB/"
+            }
+        ],
+        "rules": "Contestants must guess when various search terms peaked. Google Trends documents the popularity of search terms since January 1st 2004 to the present day, showing when they peaked. For example, 'John Robins' peaked in August 2017. A quizmaster will give contestants a name or phrase. They then have to guess which year and month that search term was at it's most popular. The closest answer in each round gets the point, if multiple contestants get it bang-on they all get a point."
+    },
+    {
+        "mugID": 246,
+        "platform": "BBC",
+        "episode": 213,
+        "creator": "Jamie",
+        "name": "Hitting the Post",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "The Quizmaster will assess your ability to introduce some 'top bangers' without talking over the vocals as if you were on the radio. You can choose a home track which you'll know well or an away track which you won't know quite as well but will gain you extra points. You're marked on three criteria: accuracy (how close you are to hitting the vocals), style (how much flare you bring to the intro) and information (what are you actually telling people about the song?). For each category you'll be scored out of 3 meaning there are 9 points available for each round. If you choose 'away', your points are doubled."
+    },
+    {
+        "mugID": 247,
+        "platform": "BBC",
+        "episode": 214,
+        "creator": "Megan",
+        "name": "Would Jubileeve it?",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Jubilee Dates",
+                "link": "https://en.wikipedia.org/wiki/List_of_jubilees_of_British_monarchs/?geo=GB/"
+            }
+        ],
+        "rules": "Players will be given an event of moment in UK history. All they have to do is say which Jubilee it happened closest to as well as the year they think the event happened. You get a point for the closest Jubilee correctly and a bonus point for guessing the year correctly."
+    },
+    {
+        "mugID": 248,
+        "platform": "BBC",
+        "episode": 215,
+        "creator": "Paul",
+        "name": "Gas Who?",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Petrol Prices",
+                "link": "https://www.globalpetrolprices.com/gasoline_prices/"
+            }
+        ],
+        "rules": "The game involves 5 rounds which are divided into 2 sections. Players are asked what the average price for a litre of petrol is in a given country, then they're asked how much it would cost to fill up a specific make and model of vehicle in said country. The answers should always be given in the currency that is used where you live. You get 1 point for the closest price per litre and another point for the correct price to fill up the car."
+    },
+    {
+        "mugID": 249,
+        "platform": "BBC",
+        "episode": 216,
+        "creator": "Chris",
+        "name": "I Can't Get No SATs-isfaction",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "SATs Questions",
+                "link": "https://www.satspapersguide.co.uk/ks2-year-6-sats/ks2-year-6-sats-papers/#ks2english/"
+            }
+        ],
+        "rules": "Players will see how many SATs questions they can answer correctly. There's a point available for each correct answer and the winner is the person with the highest score at the end of the game."
+    },
+    {
+        "mugID": 250,
+        "platform": "BBC",
+        "episode": 220,
+        "creator": "Jan",
+        "name": "Guess-tination",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Wikipedia",
+                "link": "https://en.wikipedia.org/wiki/Main_Page/"
+            }
+        ],
+        "rules": "The quizmaster will provide players with a number of clues about a certain country, all the players have to do is guess what country it is. There are more points available if you get the answer faster. All players have a guess after each clue. The clue categories are as follows: national dish, flag colours, biggest export, famous native and a popular child's name. You get 5 points if you answer after the first round and it's a sliding scale from there."
+    },
+    {
+        "mugID": 251,
+        "platform": "BBC",
+        "episode": 226,
+        "creator": "Charlotte",
+        "name": "Noise-R-Us",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "BBC Sound Effects",
+                "link": "https://sound-effects.bbcrewind.co.uk/"
+            }
+        ],
+        "rules": "The quizmaster will play a sound effect to the players. The players then have to recreate the sound as accurately as possible using only their mouths. The quizmaster decides whose sound effect sounds closest to the original and their word is final. You get a point for each best sound. It's best of 5."
+    },
+    {
+        "mugID": 252,
+        "platform": "BBC",
+        "episode": 228,
+        "creator": "Aidey",
+        "name": "If You Don't Know the Time, Don't Do the Crime",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Legislation",
+                "link": "https://www.legislation.gov.uk/"
+            }
+        ],
+        "rules": "Players will be asked to name the maximum prison sentence, or fine, for a given crime. Closest to the answer gets the point. Most points after 5 rounds wins."
+    },
+    {
+        "mugID": 253,
+        "platform": "BBC",
+        "episode": 229,
+        "creator": "Tom",
+        "name": "One Hundred and Eigth-Tea",
+        "players": "2+",
+        "quizmaster": false,
+        "props": true,
+        "rules": "Players will have 5 attempt to throw a tea bag into different sized recepticles. These are large, medium and small where each are worth 1, 2 and 3 points respectively. You can go for whichever recepticle you like but you must nominate your target before throwing."
+    },
+    {
+        "mugID": 254,
+        "platform": "BBC",
+        "episode": 230,
+        "creator": "Joe",
+        "name": "Smack My Which? Up",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "The game is very simple. The quizmaster will smack a part of their body, all the players have to do is guess which part of his body he's hit. Closest to the correct body part wins."
+    },
+    {
+        "mugID": 255,
+        "platform": "BBC",
+        "episode": 231,
+        "creator": "Dave",
+        "name": "Density Propensity",
+        "players": "2+",
+        "quizmaster": true,
+        "props": true,
+        "rules": "The quizmaster will drop items into a body (or container) of water. All the players have to do is guess whether they'll float or sink. You get a point for each correct answer."
+    },
+    {
+        "mugID": 256,
+        "platform": "BBC",
+        "episode": 232,
+        "creator": "Megan",
+        "name": "Are You a Laugh?",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "Players will be played a song featuring a clip of someone laughing. All the players have to do is guess the song and the artist - there's one point available for both the song and the artist."
+    },
+    {
+        "mugID": 257,
+        "platform": "BBC",
+        "episode": 233,
+        "creator": "Anthony",
+        "name": "Robot Wars or Football Scores",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Jonathan Pearce Commentary",
+                "link": "https://www.youtube.com/results?search_query=jonathan+pearce+commentary/"
+            }
+        ],
+        "rules": "The quizmaster will play a clip from Robot Wars and Football Commentator, Jonathan Pearce. The players will have to guess whether he was ocmmenting on Robot Wars or a Football Match. 1 point for each correct answer."
+    },
+    {
+        "mugID": 258,
+        "platform": "BBC",
+        "episode": 234,
+        "creator": "Lucy",
+        "name": "Give Me Just a Little More Thyme",
+        "players": "2+",
+        "quizmaster": true,
+        "props": true,
+        "rules": "This game will be a real test of the players' taste bud talents. The players should be blindfolded and will be presented with different herbs and spices to taste. All they have to do is guess which herb or spice they are tasting based off flavour alone. You get a point for each correct guess and all players will guess in each round."
+    },
+    {
+        "mugID": 259,
+        "platform": "BBC",
+        "episode": 235,
+        "creator": "Simone",
+        "name": "Slogan's Run",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Slogans",
+                "link": "https://www.activecampaign.com/blog/company-slogans/"
+            }
+        ],
+        "rules": "This game  consists of two rounds. In the first round, each player will have 30 seconds to give the company names to as many slogans (read out by the quizmaster) as possible. If you don't know an answer say pass. The second round is a repeat of the first round with new slogans but this time all players will be in play and the first to answer wins the point."
+    },
+    {
+        "mugID": 260,
+        "platform": "BBC",
+        "episode": 236,
+        "creator": "Martin",
+        "name": "Record Breakers",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "World Records",
+                "link": "https://www.worldrecordacademy.com/wra/world_records_90410.html/"
+            }
+        ],
+        "rules": "You both need to guess in seconds, minutes, centimetres or metres how much different world records have improved since 1922. There's a point on offer for whoever is closest in each round and if you get it bang on, you get a bonus point. There's also a bonus point if you can guess the nationality of the current world record holder."
+    },
+    {
+        "mugID": 261,
+        "platform": "BBC",
+        "episode": 237,
+        "creator": "Kyle",
+        "name": "How Heavy Is This Thing?",
+        "players": "2+",
+        "quizmaster": false,
+        "props": true,
+        "rules": "Players will be presented with an item and all you have to do is guess how heavy the item is in grams. The item will then be weighed and your score will be calculated based on how far away from the actual weight your guess is. This is an accumulative score so your score per round is the difference between your guess and the actual weight. Lowest score at the end of 5 rounds wins."
+    },
+    {
+        "mugID": 262,
+        "platform": "BBC",
+        "episode": 238,
+        "creator": "Tina",
+        "name": "Duo Lingo",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Dictionary",
+                "link": "https://www.dictionary.com/"
+            }
+        ],
+        "rules": "The quizmaster will give players 2 letters of the alphabet. They'll then have 20 seconds to name as many words as you can which include those two letters together and in the order given. Each player will be given a different pair of letters every round. You get 1 point per word."
+    },
+    {
+        "mugID": 263,
+        "platform": "BBC",
+        "episode": 239,
+        "creator": "Owen",
+        "name": "Whose Shoes? You Choose.",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Shoe Styles",
+                "link": "https://en.wikipedia.org/wiki/List_of_shoe_styles/"
+            }
+        ],
+        "rules": "Each round is split into two parts. First - the quizmaster will name a style of shoe. The players will have to guess which country it originates from. There's one point available for the correct answer but if they guess wrong, the other player can play to steal that point. There's a 'closest to the pin' bonus round as well where the player guesses which decade the shoe was first made in - both players are in play for this round and there is a point to whoever is closest to the correct date."
+    },
+    {
+        "mugID": 264,
+        "platform": "BBC",
+        "episode": 241,
+        "creator": "Liam",
+        "name": "IMDBest",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "IMDB",
+                "link": "https://www.imdb.com/"
+            }
+        ],
+        "rules": "Players will be given the name of an actor and they have to guess which film they're best known for according to IMDB. Players will have 30 seconds each to get through as many actors as possible. They can have as many guesses as they like and are allowed to pass at any point as well. A point will be scored for each correct answer and the player with the highest score wins."
+    },
+    {
+        "mugID": 265,
+        "platform": "BBC",
+        "episode": 242,
+        "creator": "Laura",
+        "name": "Who's Your Best Friend",
+        "players": "2",
+        "quizmaster": true,
+        "props": false,
+        "rules": "The quizmaster will give two random names to one of the players. The player who's not been given the names will have to guess which of the two names the opposing player would rather be best friends with and give a reason for why. The player who received the names will then have to  say who they'd rather be best friends with and why. The player who guessed would receive one point for the correct person and another point if they guess the correct reason why. This alternates between the players and the player with the most points after 5 rounds wins."
+    },
+    {
+        "mugID": 266,
+        "platform": "BBC",
+        "episode": 243,
+        "creator": "Bob",
+        "name": "Absolutely Streaming",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Most Streamed Song",
+                "link": "https://www.bbc.co.uk/news/entertainment-arts-63490691.amp/"
+            }
+        ],
+        "rules": "The quizmaster will play a clip of a song which was the most streamed song of a particular year. Players get a point for every year away from the release year their guess is. The lowest score after 5 rounds wins."
+    },
+    {
+        "mugID": 267,
+        "platform": "BBC",
+        "episode": 245,
+        "creator": "Sam",
+        "name": "High Flying Birds",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "links": [
+            {
+                "name": "Bird Flying Heights",
+                "link": "https://en.wikipedia.org/wiki/List_of_birds_by_flight_heights"
+            }
+        ],
+        "rules": "Each round, players will be given two birds and it's up to them to guess which one flies at the greatest height on average. If you guess correctly you score a point and then the players are also given the chance to get a bonus point for guessing the average height that the bird flies at in metres. If your guess is within 500m then you get the bonus point. Highest score after 5 rounds wins."
+    },
+    {
+        "mugID": 268,
+        "platform": "BBC",
+        "episode": 246,
+        "creator": "Lizzie",
+        "name": "Cata-loggerheads",
+        "players": "2+",
+        "quizmaster": true,
+        "props": true,
+        "rules": "You will need an Argos catalogue for this game. For each round, the quizmaster will name a well known person. The players will then have 15 seconds to find something in the catalogue that you think would make the perfect gift for the person in question. At the end of the 15 seconds, the player must have their finger on the gift they're choosing. They'll then have to explain why they chose that gift. Whoever justifies the gift giving the best for the celebrity in question gets the point. Highest score after 5 rounds wins."
+    },
+    {
+        "mugID": 269,
+        "platform": "BBC",
+        "episode": 248,
+        "creator": "Joanne",
+        "name": "Masterman-chef",
+        "players": "2+",
+        "quizmaster": true,
+        "props": false,
+        "rules": "The quizmaster finds 5 traditional dishes from the BBC Food website. They will then read out a maximum of 10 ingredients required to make said recipe. All the players have to do is buzz in (names are buzzers) and guess the recipe the quizmaster is cooking up. For every ingredient the quizmaster names, another point is added on. The aim is to accrue as few points as possible after 5 rounds. Players are frozen out and receive all 10 points if they guess a recipe incorrectly."
+    }
+]
+
